@@ -1,8 +1,4 @@
 ## String
-
-- 844 Backspace String Compare 
-  * Question  https://leetcode.com/problems/backspace-string-compare/  
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BackspaceStringCompare.java
 - 520 Detect Capital
     * Question https://leetcode.com/problems/detect-capital/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java
@@ -15,13 +11,54 @@
   * Question  https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KidsWithTheGreatestNumberofCandies.java
   
+- 1309 Decrypt String from Alphabet to Integer Mapping
+  * Question  https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecryptStringfromAlphabettoIntegerMapping.java
+  
 ## Stack
 - 125 Valid Palindrome
     * Question https://leetcode.com/problems/valid-palindrome/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidPalindrome.java
+    
+- 1021 Remove Outermost Parentheses (Easy)
+    * Question https://leetcode.com/problems/remove-outermost-parentheses/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveOutermostParentheses.java    
+
+- 1047 Remove All Adjacent Duplicates In String (Easy)
+    * Question https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveAllAdjacentDuplicatesInString.java
+
+- 496 Next Greater Element I (Easy)
+      * Question https://leetcode.com/problems/next-greater-element-i/
+      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/NextGreaterElementI.java
+
+- 1544 Make The String Great (Easy)
+     * Question https://leetcode.com/problems/make-the-string-great/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MakeTheStringGreat.java
+
+- 232 Implement Queue using Stacks(Easy)
+     * Question https://leetcode.com/problems/implement-queue-using-stacks/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ImplementQueueusingStacks.java
+
+- 844 Backspace String Compare (Easy)
+  * Question  https://leetcode.com/problems/backspace-string-compare/  
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BackspaceStringCompare.java 
+
+- 155 Min Stack (Easy)
+  * Question  https://leetcode.com/problems/min-stack/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MinStack.java 
+  
+- 20  Valid Parentheses (Easy)
+  * Question https://leetcode.com/problems/valid-parentheses/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ValidParentheses.java 
+  
+- 1190 Reverse Substrings Between Each Pair of Parentheses (Easy)
+  * Question https://leetcode.com/problems/valid-parentheses/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseSubstringsBetweenEachPairofParentheses.java 
+  
 ## Hashtable
 - 1512 Valid Palindrome  (Easy)
-    * Question https://leetcode.com/problems/number-of-good-pairs
+    * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/NumberofGoodPairs.java
     
 -  771 Jewels and Stones (Easy)
