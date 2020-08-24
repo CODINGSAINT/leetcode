@@ -46,15 +46,15 @@
 
 - 155 Min Stack (Easy)
   * Question  https://leetcode.com/problems/min-stack/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MinStack.java 
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinStack.java 
   
 - 20  Valid Parentheses (Easy)
   * Question https://leetcode.com/problems/valid-parentheses/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ValidParentheses.java 
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidParentheses.java 
   
 - 1190 Reverse Substrings Between Each Pair of Parentheses (Easy)
   * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseSubstringsBetweenEachPairofParentheses.java 
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ReverseSubstringsBetweenEachPairofParentheses.java 
   
 ## Hashtable
 - 1512 Valid Palindrome  (Easy)
