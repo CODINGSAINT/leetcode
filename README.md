@@ -29,8 +29,8 @@
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveAllAdjacentDuplicatesInString.java
 
 - 496 Next Greater Element I (Easy)
-      * Question https://leetcode.com/problems/next-greater-element-i/
-      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/NextGreaterElementI.java
+    * Question https://leetcode.com/problems/next-greater-element-i/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/NextGreaterElementI.java
 
 - 1544 Make The String Great (Easy)
      * Question https://leetcode.com/problems/make-the-string-great/
@@ -56,6 +56,39 @@
   * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ReverseSubstringsBetweenEachPairofParentheses.java 
   
+## LinkedList 
+- 876  Middle of the Linked List  (Easy)
+  * Question https://leetcode.com/problems/middle-of-the-linked-list/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MiddleoftheLinkedList.java 
+- 237 Delete Node in a Linked List  (Easy)
+  * Question https://leetcode.com/problems/delete-node-in-a-linked-list/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeleteNodeinaLinkedList.java 
+ - 206  Reverse Linked List  (Easy)
+    * Question https://leetcode.com/problems/reverse-linked-list/
+    * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ReverseLinkedList.java 
+- 21 Merge Two Sorted Lists (Easy)
+   * Question https://leetcode.com/problems/merge-two-sorted-lists/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MergeTwoSortedLists.java 
+- 83 Remove Duplicates from Sorted List(Easy)
+   * Question https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RemoveDuplicatesfromSortedList.java
+- 141 Linked List Cycle(Easy)
+   * Question https://leetcode.com/problems/linked-list-cycle/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListCycle.java
+
+- 160 Intersection of Two Linked Lists(Easy)
+   * Question https://leetcode.com/problems/intersection-of-two-linked-lists/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/IntersectionofTwoLinkedLists.java
+   
+- 328 Odd Even Linked List(Easy)
+   * Question https://leetcode.com/problems/odd-even-linked-list/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/OddEvenLinkedList.java
+
+- 725 Split Linked List in Parts(Easy)
+   * Question https://leetcode.com/problems/split-linked-list-in-parts/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SplitLinkedListinParts.java
+  
+ 
 ## Hashtable
 - 1512 Valid Palindrome  (Easy)
     * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
@@ -78,4 +111,4 @@
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java
 
 
-    
+ 
