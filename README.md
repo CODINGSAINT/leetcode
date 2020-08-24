@@ -19,3 +19,26 @@
 - 125 Valid Palindrome
     * Question https://leetcode.com/problems/valid-palindrome/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidPalindrome.java
+## Hashtable
+- 1512 Valid Palindrome  (Easy)
+    * Question https://leetcode.com/problems/number-of-good-pairs
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/NumberofGoodPairs.java
+    
+-  771 Jewels and Stones (Easy)
+    * Question https://leetcode.com/problems/jewels-and-stones/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/JewelAndStones.java
+    
+-  739 Daily Temperatures (Easy)
+    * Question https://leetcode.com/problems/daily-temperatures/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/DailyTemperatures.java
+    
+- 94 Binary Tree Inorder Traversal (Medium)
+    * Question https://leetcode.com/problems/binary-tree-inorder-traversal/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/BinaryTreeInorderTraversal.java
+
+- 1 Two Sum (Easy)
+    * Question https://leetcode.com/problems/two-sum/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java
+
+
+    
