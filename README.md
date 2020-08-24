@@ -111,4 +111,7 @@
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java
 
 
- 
+ ## Misc
+ - 1242 Number of Steps to Reduce a Number to Zero (Easy)
+     * Question https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java
