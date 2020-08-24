@@ -53,7 +53,7 @@
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ValidParentheses.java 
   
 - 1190 Reverse Substrings Between Each Pair of Parentheses (Easy)
-  * Question https://leetcode.com/problems/valid-parentheses/
+  * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseSubstringsBetweenEachPairofParentheses.java 
   
 ## Hashtable
