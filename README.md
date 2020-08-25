@@ -87,7 +87,11 @@
 - 725 Split Linked List in Parts(Easy)
    * Question https://leetcode.com/problems/split-linked-list-in-parts/
    * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SplitLinkedListinParts.java
-  
+
+- 1019 Next Greater Node In Linked List(Medium)
+   * Question https://leetcode.com/problems/next-greater-node-in-linked-list/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/NextGreaterNodeInLinkedList.java
+
  
 ## Hashtable
 - 1512 Valid Palindrome  (Easy)
