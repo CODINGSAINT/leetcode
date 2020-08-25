@@ -14,6 +14,9 @@
 - 1309 Decrypt String from Alphabet to Integer Mapping
   * Question  https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecryptStringfromAlphabettoIntegerMapping.java
+- 1389 Create Target Array in the Given Order
+  * Question  https://leetcode.com/problems/create-target-array-in-the-given-order/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CreateTargetArrayintheGivenOrder.java
   
 ## Stack
 - 125 Valid Palindrome
