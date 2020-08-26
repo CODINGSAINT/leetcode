@@ -17,7 +17,12 @@
 - 1389 Create Target Array in the Given Order (Easy)
   * Question  https://leetcode.com/problems/create-target-array-in-the-given-order/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CreateTargetArrayintheGivenOrder.java
-  
+
+- 1450 Number of Students Doing Homework at a Given Time  (easy)
+  * Question  https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java
+
+
 ## Stack
 - 125 Valid Palindrome
     * Question https://leetcode.com/problems/valid-palindrome/
@@ -58,6 +63,9 @@
 - 1190 Reverse Substrings Between Each Pair of Parentheses (Easy)
   * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ReverseSubstringsBetweenEachPairofParentheses.java 
+- 1249 Minimum Remove to Make Valid Parentheses (Medium)
+  * Question https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumRemovetoMakeValidParentheses.java 
   
 ## LinkedList 
 - 876  Middle of the Linked List  (Easy)
@@ -122,3 +130,9 @@
  - 1242 Number of Steps to Reduce a Number to Zero (Easy)
      * Question https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java
+- 1365 How Many Numbers Are Smaller Than the Current Number
+     * Question https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/HowManyNumbersAreSmallerThantheCurrentNumber.java
+- 1281 Subtract the Product and Sum of Digits of an Integer
+     * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
