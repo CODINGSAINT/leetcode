@@ -21,7 +21,12 @@
 - 1450 Number of Students Doing Homework at a Given Time  (easy)
   * Question  https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java
-
+- 1313 Decompress Run-Length Encoded List  (easy)
+  * Question  https://leetcode.com/problems/decompress-run-length-encoded-list/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java
+- 1313 Decompress Run-Length Encoded List(easy)
+  * Question  https://leetcode.com/problems/decompress-run-length-encoded-list/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java
 
 ## Stack
 - 125 Valid Palindrome
@@ -136,3 +141,7 @@
 - 1281 Subtract the Product and Sum of Digits of an Integer
      * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
+##String
+- 1221 Split a String in Balanced Strings
+     * Question https://leetcode.com/problems/split-a-string-in-balanced-strings/
+     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java
