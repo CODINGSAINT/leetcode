@@ -2,6 +2,10 @@
 - 520 Detect Capital
     * Question https://leetcode.com/problems/detect-capital/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java
+- 1221 Split a String in Balanced Strings
+    * Question https://leetcode.com/problems/split-a-string-in-balanced-strings/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java
+
 ## Arrays
 - 1480 Running Sum of 1d Array
   * Question  https://leetcode.com/problems/running-sum-of-1d-array/ 
@@ -141,7 +145,8 @@
 - 1281 Subtract the Product and Sum of Digits of an Integer
      * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
-##String
-- 1221 Split a String in Balanced Strings
-     * Question https://leetcode.com/problems/split-a-string-in-balanced-strings/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java
+## Tree
+- 938 Range Sum of BST (easy)
+  * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
+
