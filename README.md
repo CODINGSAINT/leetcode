@@ -147,6 +147,6 @@
      * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
 ## Tree
 - 938 Range Sum of BST (easy)
-  * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
+  * Question https://leetcode.com/problems/range-sum-of-bst/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RangeSumofBST.java
 
