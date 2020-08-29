@@ -150,21 +150,22 @@
   * Question https://leetcode.com/problems/range-sum-of-bst/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RangeSumofBST.java
 
-- 617  Merge Two Binary Trees
+- 617  Merge Two Binary Trees(easy)
   * Question https://leetcode.com/problems/merge-two-binary-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MergeTwoBinaryTrees.java
-- 700 Search in a Binary Search Tree 
+
+- 700 Search in a Binary Search Tree  (easy)
   * Question https://leetcode.com/problems/search-in-a-binary-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
 
-- 266 Invert Binary Tree
+- 266 Invert Binary Tree (easy)
   * Question https://leetcode.com/problems/invert-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
 
-- 266 Invert Binary Tree
+- 266 Invert Binary Tree (easy)
   * Question https://leetcode.com/problems/invert-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
 
-- N-ary Tree Preorder Traversal
+-  589 N-ary Tree Preorder Traversal (easy)
   * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
