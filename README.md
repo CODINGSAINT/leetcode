@@ -156,3 +156,12 @@
 - 700 Search in a Binary Search Tree 
   * Question https://leetcode.com/problems/search-in-a-binary-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
+
+- 266 Invert Binary Tree
+  * Question https://leetcode.com/problems/invert-binary-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
+
+- 266 Invert Binary Tree
+  * Question https://leetcode.com/problems/invert-binary-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
+
