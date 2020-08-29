@@ -150,3 +150,6 @@
   * Question https://leetcode.com/problems/range-sum-of-bst/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RangeSumofBST.java
 
+- 617. Merge Two Binary Trees
+  * Question https://leetcode.com/problems/merge-two-binary-trees/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MergeTwoBinaryTrees.java
