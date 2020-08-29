@@ -153,3 +153,6 @@
 - 617. Merge Two Binary Trees
   * Question https://leetcode.com/problems/merge-two-binary-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MergeTwoBinaryTrees.java
+- 700. https://leetcode.com/problems/search-in-a-binary-search-tree/
+  * Question https://leetcode.com/problems/merge-two-binary-trees/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
