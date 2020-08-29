@@ -165,3 +165,6 @@
   * Question https://leetcode.com/problems/invert-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
 
+- N-ary Tree Preorder Traversal
+  * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
