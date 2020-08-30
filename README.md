@@ -160,12 +160,8 @@
 
 - 266 Invert Binary Tree (easy)
   * Question https://leetcode.com/problems/invert-binary-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
-
-- 266 Invert Binary Tree (easy)
-  * Question https://leetcode.com/problems/invert-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
 
 -  589 N-ary Tree Preorder Traversal (easy)
   * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePreorderTraversal.java
