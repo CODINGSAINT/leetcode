@@ -173,3 +173,7 @@
 -  897 Increasing Order Search Tree (easy)
   * Question https://leetcode.com/problems/increasing-order-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/IncreasingOrderSearchTree.java
+
+-  590 N-ary Tree Postorder Traversal (easy)
+  * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePostorderTraversal.java
