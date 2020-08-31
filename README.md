@@ -185,4 +185,4 @@
 
 -  144 Univalued Binary Tree(easy)
   * Question https://leetcode.com/problems/univalued-binary-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java
