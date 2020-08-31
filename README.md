@@ -165,3 +165,11 @@
 -  589 N-ary Tree Preorder Traversal (easy)
   * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePreorderTraversal.java
+   
+-  145 Binary Tree Postorder Traversal(Medium)
+  * Question https://leetcode.com/problems/binary-tree-postorder-traversal/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePostorderTraversal.java
+   
+-  897 Increasing Order Search Tree (easy)
+  * Question https://leetcode.com/problems/increasing-order-search-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/IncreasingOrderSearchTree.java
