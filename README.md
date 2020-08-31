@@ -181,3 +181,8 @@
 -  144 Binary Tree Preorder Traversal (Medium)
   * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
+
+
+-  144 Univalued Binary Tree(easy)
+  * Question https://leetcode.com/problems/univalued-binary-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
