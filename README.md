@@ -194,3 +194,8 @@
 -  104 Maximum Depth of Binary Tree
   * Question https://leetcode.com/problems/maximum-depth-of-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java
+
+## Tree
+- 949 Largest Time for Given Digits (easy)
+  * Question https://leetcode.com/problems/largest-time-for-given-digits/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java
