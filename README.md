@@ -186,3 +186,11 @@
 -  144 Univalued Binary Tree(easy)
   * Question https://leetcode.com/problems/univalued-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java
+
+-  102 Binary Tree Level Order Traversal 
+  * Question https://leetcode.com/problems/binary-tree-level-order-traversal/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversal.java
+
+-  104 Maximum Depth of Binary Tree
+  * Question https://leetcode.com/problems/maximum-depth-of-binary-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java
