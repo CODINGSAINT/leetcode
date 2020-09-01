@@ -195,6 +195,11 @@
   * Question https://leetcode.com/problems/maximum-depth-of-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java
 
+-  874 Leaf-Similar Trees (easy)
+  * Question https://leetcode.com/problems/leaf-similar-trees/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LeafSimilarTrees.java
+
+
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/largest-time-for-given-digits/
