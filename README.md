@@ -32,6 +32,10 @@
   * Question  https://leetcode.com/problems/decompress-run-length-encoded-list/
   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java
 
+- 220 Contains Duplicate III(Medium)
+  * Question  https://leetcode.com/problems/contains-duplicate-iii/
+  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java
+
 ## Stack
 - 125 Valid Palindrome
     * Question https://leetcode.com/problems/valid-palindrome/
@@ -182,7 +186,6 @@
   * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
 
-
 -  144 Univalued Binary Tree(easy)
   * Question https://leetcode.com/problems/univalued-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java
@@ -199,8 +202,12 @@
   * Question https://leetcode.com/problems/leaf-similar-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LeafSimilarTrees.java
 
+-  637  Average of Levels in Binary Tree(easy)
+  * Question https://leetcode.com/problems/leaf-similar-trees/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/AverageofLevelsinBinaryTree.java
+
 
 ## Math
 - 949 Largest Time for Given Digits (easy)
-  * Question https://leetcode.com/problems/largest-time-for-given-digits/
+  * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java
