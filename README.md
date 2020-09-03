@@ -206,6 +206,9 @@
   * Question https://leetcode.com/problems/leaf-similar-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/AverageofLevelsinBinaryTree.java
 
+- 669 Trim a Binary Search Tree (easy)
+  * Question https://leetcode.com/problems/trim-a-binary-search-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TrimaBinarySearchTree.java
 
 ## Math
 - 949 Largest Time for Given Digits (easy)
