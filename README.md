@@ -209,7 +209,9 @@
 - 669 Trim a Binary Search Tree (easy)
   * Question https://leetcode.com/problems/trim-a-binary-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TrimaBinarySearchTree.java
-
+- 538 Convert BST to Greater Tree
+ * https://leetcode.com/problems/convert-bst-to-greater-tree/ 
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertBSTtoGreaterTree.java
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
