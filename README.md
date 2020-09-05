@@ -231,7 +231,7 @@
 
 - 100 Same Tree
  * https://leetcode.com/problems/same-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversalII.java
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java
   
 ## Math
 - 949 Largest Time for Given Digits (easy)
