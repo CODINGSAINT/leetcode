@@ -221,7 +221,10 @@
  * https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructStringfromBinaryTree.java
   
-  
+- 530 Minimum Absolute Difference in BST
+ * https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumAbsoluteDifferenceinBST.java
+   
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
