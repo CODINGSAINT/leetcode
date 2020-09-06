@@ -166,43 +166,43 @@
   * Question https://leetcode.com/problems/invert-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
 
--  589 N-ary Tree Preorder Traversal (easy)
+- 589 N-ary Tree Preorder Traversal (easy)
   * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePreorderTraversal.java
    
--  145 Binary Tree Postorder Traversal(Medium)
+- 145 Binary Tree Postorder Traversal(Medium)
   * Question https://leetcode.com/problems/binary-tree-postorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePostorderTraversal.java
    
--  897 Increasing Order Search Tree (easy)
+- 897 Increasing Order Search Tree (easy)
   * Question https://leetcode.com/problems/increasing-order-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/IncreasingOrderSearchTree.java
 
--  590 N-ary Tree Postorder Traversal (easy)
+- 590 N-ary Tree Postorder Traversal (easy)
   * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePostorderTraversal.java
 
--  144 Binary Tree Preorder Traversal (Medium)
+- 144 Binary Tree Preorder Traversal (Medium)
   * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
 
--  144 Univalued Binary Tree(easy)
+- 144 Univalued Binary Tree(easy)
   * Question https://leetcode.com/problems/univalued-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java
 
--  102 Binary Tree Level Order Traversal 
+- 102 Binary Tree Level Order Traversal 
   * Question https://leetcode.com/problems/binary-tree-level-order-traversal/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversal.java
 
--  104 Maximum Depth of Binary Tree
+- 104 Maximum Depth of Binary Tree
   * Question https://leetcode.com/problems/maximum-depth-of-binary-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java
 
--  874 Leaf-Similar Trees (easy)
+- 874 Leaf-Similar Trees (easy)
   * Question https://leetcode.com/problems/leaf-similar-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LeafSimilarTrees.java
 
--  637  Average of Levels in Binary Tree(easy)
+- 637  Average of Levels in Binary Tree(easy)
   * Question https://leetcode.com/problems/leaf-similar-trees/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/AverageofLevelsinBinaryTree.java
 
@@ -234,7 +234,7 @@
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java
 
 - 100 Sum of Left Leaves
- * ttps://leetcode.com/problems/sum-of-left-leaves/
+ * https://leetcode.com/problems/sum-of-left-leaves/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java
 
 
