@@ -238,6 +238,9 @@
  * https://leetcode.com/problems/sum-of-left-leaves/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java
 
+- 993 Cousins in Binary Tree
+ * https://leetcode.com/problems/cousins-in-binary-tree/
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CousinsinBinaryTree.java
 
 ## Math
 - 949 Largest Time for Given Digits (easy)
