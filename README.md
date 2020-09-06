@@ -232,7 +232,12 @@
 - 100 Same Tree
  * https://leetcode.com/problems/same-tree/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java
-  
+
+- 100 Sum of Left Leaves
+ * ttps://leetcode.com/problems/sum-of-left-leaves/
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java
+
+
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
