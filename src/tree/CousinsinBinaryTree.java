@@ -22,8 +22,7 @@ public class CousinsinBinaryTree {
 
         if(root== null)
             return false;
-        List<List<Integer>> values = new ArrayList();
-        Queue<TreeNode> q= new LinkedList();
+         Queue<TreeNode> q= new LinkedList();
         q.offer(root);
         q.offer(null);
         List<TreeNode> nodesAtLevel= new ArrayList();
@@ -62,8 +61,6 @@ public class CousinsinBinaryTree {
 
         }
         return false;
-
-
     }
 
 }

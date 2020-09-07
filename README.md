@@ -242,6 +242,10 @@
  * https://leetcode.com/problems/cousins-in-binary-tree/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CousinsinBinaryTree.java
 
+- 257 Binary Tree Paths
+ * https://leetcode.com/problems/binary-tree-paths/submissions/
+  * 257 https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
+  
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
