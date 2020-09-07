@@ -253,8 +253,12 @@
 - 235 Lowest Common Ancestor of a Binary Search Tree
  * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java
+
+- 563. Binary Tree Tilt
+ * https://leetcode.com/problems/binary-tree-tilt/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeTilt.java
   
 ## Math
 - 949 Largest Time for Given Digits (easy)
-  * Question https://leetcode.com/problems/average-of-levels-in-binary-tree/
+  * Question https://leetcode.com/problems/largest-time-for-given-digits/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java
