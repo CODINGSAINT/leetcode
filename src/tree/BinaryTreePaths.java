@@ -2,7 +2,7 @@ package tree;
 
 import java.util.ArrayList;
 import java.util.List;
-//https://leetcode.com/problems/binary-tree-paths/submissions/
+//https://leetcode.com/problems/binary-tree-paths/
 //257 Binary Tree Paths
 public class BinaryTreePaths {
 

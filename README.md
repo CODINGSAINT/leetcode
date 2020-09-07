@@ -6,6 +6,10 @@
     * Question https://leetcode.com/problems/split-a-string-in-balanced-strings/
     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java
 
+- 345 Reverse Vowels of a String
+    * Question https://leetcode.com/problems/reverse-vowels-of-a-string/
+    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java
+
 ## Arrays
 - 1480 Running Sum of 1d Array
   * Question  https://leetcode.com/problems/running-sum-of-1d-array/ 
@@ -244,7 +248,11 @@
 
 - 257 Binary Tree Paths
  * https://leetcode.com/problems/binary-tree-paths/submissions/
-  * 257 https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
+
+- 235 Lowest Common Ancestor of a Binary Search Tree
+ * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java
   
 ## Math
 - 949 Largest Time for Given Digits (easy)
