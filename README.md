@@ -248,16 +248,21 @@
 
 - 257 Binary Tree Paths
  * https://leetcode.com/problems/binary-tree-paths/submissions/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
 
 - 235 Lowest Common Ancestor of a Binary Search Tree
  * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java
 
 - 563. Binary Tree Tilt
- * https://leetcode.com/problems/binary-tree-tilt/
+  * https://leetcode.com/problems/binary-tree-tilt/
   * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeTilt.java
-  
+
+- 101 Symmetric Tree
+ * https://leetcode.com/problems/symmetric-tree/ 
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SymmetricTree.java
+
+
 ## Math
 - 949 Largest Time for Given Digits (easy)
   * Question https://leetcode.com/problems/largest-time-for-given-digits/
