@@ -262,6 +262,9 @@
  * https://leetcode.com/problems/symmetric-tree/ 
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SymmetricTree.java
 
+- 572 Subtree of Another Tree
+ * https://leetcode.com/problems/subtree-of-another-tree/
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SubtreeofAnotherTree.java
 
 ## Math
 - 949 Largest Time for Given Digits (easy)
