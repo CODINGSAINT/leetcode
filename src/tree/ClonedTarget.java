@@ -28,12 +28,7 @@ public class ClonedTarget {
 
     }
 
-    public TreeNode clonedNode(TreeNode original,TreeNode cloned,TreeNode target ) {
-        if(cloned.val == target.val && isSame(cloned, target)){
-            return original;
-        }
-        return null;
-    }
+
 
     public boolean isSame(TreeNode t1, TreeNode t2){
 
