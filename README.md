@@ -124,6 +124,10 @@
    * Question https://leetcode.com/problems/palindrome-linked-list/
    * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/PalindromeLinkedList.java
 
+- 24 Swap Nodes in Pairs
+   * Question https://leetcode.com/problems/swap-nodes-in-pairs/
+   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java
+
  
 ## Hashtable
 - 1512 Valid Palindrome  (Easy)
@@ -269,6 +273,10 @@
 - 572 Subtree of Another Tree
  * https://leetcode.com/problems/subtree-of-another-tree/
  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SubtreeofAnotherTree.java
+
+- 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+ * https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+ * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ClonedTarget.java
 
 ## Math
 - 949 Largest Time for Given Digits (easy)
