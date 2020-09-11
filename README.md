@@ -1,7 +1,7 @@
 ## String
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
- |  520 |  [Detect Capital](https://leetcode.com/problems/detect-capital/) |  Easy | https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java  | 
+ |  520 |  [Detect Capital](https://leetcode.com/problems/detect-capital/) |  Easy | [DetectCapital](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java)  | 
  |  1221 |  [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |  Easy |[SplitaStringinBalancedStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java)  | 
  | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |Easy |[ReverseVowelsofaString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java)|
 
