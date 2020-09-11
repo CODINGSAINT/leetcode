@@ -19,249 +19,90 @@
 
 
 ## Stack
-- 125 Valid Palindrome
-    * Question https://leetcode.com/problems/valid-palindrome/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidPalindrome.java
-    
-- 1021 Remove Outermost Parentheses (Easy)
-    * Question https://leetcode.com/problems/remove-outermost-parentheses/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveOutermostParentheses.java    
-
-- 1047 Remove All Adjacent Duplicates In String (Easy)
-    * Question https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveAllAdjacentDuplicatesInString.java
-
-- 496 Next Greater Element I (Easy)
-    * Question https://leetcode.com/problems/next-greater-element-i/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/NextGreaterElementI.java
-
-- 1544 Make The String Great (Easy)
-     * Question https://leetcode.com/problems/make-the-string-great/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MakeTheStringGreat.java
-
-- 232 Implement Queue using Stacks(Easy)
-     * Question https://leetcode.com/problems/implement-queue-using-stacks/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ImplementQueueusingStacks.java
-
-- 844 Backspace String Compare (Easy)
-  * Question  https://leetcode.com/problems/backspace-string-compare/  
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BackspaceStringCompare.java 
-
-- 155 Min Stack (Easy)
-  * Question  https://leetcode.com/problems/min-stack/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinStack.java 
-  
-- 20  Valid Parentheses (Easy)
-  * Question https://leetcode.com/problems/valid-parentheses/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidParentheses.java 
-  
-- 1190 Reverse Substrings Between Each Pair of Parentheses (Easy)
-  * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ReverseSubstringsBetweenEachPairofParentheses.java 
-- 1249 Minimum Remove to Make Valid Parentheses (Medium)
-  * Question https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumRemovetoMakeValidParentheses.java 
-  
+| No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+  | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy |[ValidPalindrome](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidPalindrome.java)|
+  | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| Easy | [RemoveOutermostParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveOutermostParentheses.java)|
+  | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [RemoveAllAdjacentDuplicatesInString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/RemoveAllAdjacentDuplicatesInString.java) |
+  | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [NextGreaterElementI](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/NextGreaterElementI.java)|
+  | 1544 | [Make The String Great]( https://leetcode.com/problems/make-the-string-great/) | Easy | [MakeTheStringGreat](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MakeTheStringGreat.java)|
+  |232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| Easy | [ImplementQueueusingStacks](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ImplementQueueusingStacks.java)|
+  | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | Easy | [BackspaceStringCompare](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BackspaceStringCompare.java) |
+  | 155 | [Min Stack ](https://leetcode.com/problems/min-stack/)| Easy | [MinStack](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinStack.java)|
+  | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |(Easy) | [ValidParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidParentheses.java)  |
+  | 1190 |[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) |Easy | [ReverseSubstringsBetweenEachPairofParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ReverseSubstringsBetweenEachPairofParentheses.java)|
+  | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |  | [MinimumRemovetoMakeValidParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumRemovetoMakeValidParentheses.java) |
+  |921 |  [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| Medium| [MinimumAddtoMakeParenthesesValid](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumAddtoMakeParenthesesValid.java) |
 ## LinkedList 
-- 876  Middle of the Linked List  (Easy)
-  * Question https://leetcode.com/problems/middle-of-the-linked-list/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MiddleoftheLinkedList.java 
-- 237 Delete Node in a Linked List  (Easy)
-  * Question https://leetcode.com/problems/delete-node-in-a-linked-list/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeleteNodeinaLinkedList.java 
- - 206  Reverse Linked List  (Easy)
-    * Question https://leetcode.com/problems/reverse-linked-list/
-    * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ReverseLinkedList.java 
-- 21 Merge Two Sorted Lists (Easy)
-   * Question https://leetcode.com/problems/merge-two-sorted-lists/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MergeTwoSortedLists.java 
-- 83 Remove Duplicates from Sorted List(Easy)
-   * Question https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RemoveDuplicatesfromSortedList.java
-- 141 Linked List Cycle(Easy)
-   * Question https://leetcode.com/problems/linked-list-cycle/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListCycle.java
-
-- 160 Intersection of Two Linked Lists(Easy)
-   * Question https://leetcode.com/problems/intersection-of-two-linked-lists/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/IntersectionofTwoLinkedLists.java
-   
-- 328 Odd Even Linked List(Easy)
-   * Question https://leetcode.com/problems/odd-even-linked-list/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/OddEvenLinkedList.java
-
-- 725 Split Linked List in Parts(Easy)
-   * Question https://leetcode.com/problems/split-linked-list-in-parts/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SplitLinkedListinParts.java
-
-- 1019 Next Greater Node In Linked List(Medium)
-   * Question https://leetcode.com/problems/next-greater-node-in-linked-list/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/NextGreaterNodeInLinkedList.java
-
-- 234 Palindrome Linked List
-   * Question https://leetcode.com/problems/palindrome-linked-list/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/PalindromeLinkedList.java
-
-- 24 Swap Nodes in Pairs
-   * Question https://leetcode.com/problems/swap-nodes-in-pairs/
-   * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java
-
- 
+| No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+ | 876 |[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [MiddleoftheLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MiddleoftheLinkedList.java) |
+ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy |[DeleteNodeinaLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeleteNodeinaLinkedList.java) |
+ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |[ReverseLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ReverseLinkedList.java) |
+ | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |[MergeTwoSortedLists](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MergeTwoSortedLists.java)| 
+ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [RemoveDuplicatesfromSortedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RemoveDuplicatesfromSortedList.java) |
+ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |Easy |[LinkedListCycle](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListCycle.java) |
+ | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [IntersectionofTwoLinkedLists](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/IntersectionofTwoLinkedLists.java) |
+ | 328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy |[OddEvenLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/OddEvenLinkedList.java) |
+ | 725 |[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)| Easy |[SplitLinkedListinParts](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SplitLinkedListinParts.java)|
+  | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Easy | [NextGreaterNodeInLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/NextGreaterNodeInLinkedList.java)|
+  | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | [PalindromeLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/PalindromeLinkedList.java) |
+  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | [SwapNodesinPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java)|
+ |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
 ## Hashtable
-- 1512 Valid Palindrome  (Easy)
-    * Question https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/NumberofGoodPairs.java
-    
--  771 Jewels and Stones (Easy)
-    * Question https://leetcode.com/problems/jewels-and-stones/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/JewelAndStones.java
-    
--  739 Daily Temperatures (Easy)
-    * Question https://leetcode.com/problems/daily-temperatures/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/DailyTemperatures.java
-    
-- 94 Binary Tree Inorder Traversal (Medium)
-    * Question https://leetcode.com/problems/binary-tree-inorder-traversal/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/BinaryTreeInorderTraversal.java
-
-- 1 Two Sum (Easy)
-    * Question https://leetcode.com/problems/two-sum/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java
+| No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+| 1512 | [Valid Palindrome](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Easy | [NumberofGoodPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/NumberofGoodPairs.java) |
+ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [JewelAndStones](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/JewelAndStones.java)|
+ | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Easy| [DailyTemperatures](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/DailyTemperatures.java) |
+ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [BinaryTreeInorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/BinaryTreeInorderTraversal.java) |
+ | 1 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TwoSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java)|
 
 
- ## Misc
- - 1242 Number of Steps to Reduce a Number to Zero (Easy)
-     * Question https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java
-- 1365 How Many Numbers Are Smaller Than the Current Number
-     * Question https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/HowManyNumbersAreSmallerThantheCurrentNumber.java
-- 1281 Subtract the Product and Sum of Digits of an Integer
-     * Question https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-     * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java
 ## Tree
-- 938 Range Sum of BST (easy)
-  * Question https://leetcode.com/problems/range-sum-of-bst/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RangeSumofBST.java
-
-- 617  Merge Two Binary Trees(easy)
-  * Question https://leetcode.com/problems/merge-two-binary-trees/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MergeTwoBinaryTrees.java
-
-- 700 Search in a Binary Search Tree  (easy)
-  * Question https://leetcode.com/problems/search-in-a-binary-search-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java
-
-- 266 Invert Binary Tree (easy)
-  * Question https://leetcode.com/problems/invert-binary-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java
-
-- 589 N-ary Tree Preorder Traversal (easy)
-  * Question https://leetcode.com/problems/n-ary-tree-preorder-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePreorderTraversal.java
-   
-- 145 Binary Tree Postorder Traversal(Medium)
-  * Question https://leetcode.com/problems/binary-tree-postorder-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePostorderTraversal.java
-   
-- 897 Increasing Order Search Tree (easy)
-  * Question https://leetcode.com/problems/increasing-order-search-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/IncreasingOrderSearchTree.java
-
-- 590 N-ary Tree Postorder Traversal (easy)
-  * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePostorderTraversal.java
-
-- 144 Binary Tree Preorder Traversal (Medium)
-  * Question https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java
-
-- 144 Univalued Binary Tree(easy)
-  * Question https://leetcode.com/problems/univalued-binary-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java
-
-- 102 Binary Tree Level Order Traversal 
-  * Question https://leetcode.com/problems/binary-tree-level-order-traversal/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversal.java
-
-- 104 Maximum Depth of Binary Tree
-  * Question https://leetcode.com/problems/maximum-depth-of-binary-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java
-
-- 874 Leaf-Similar Trees (easy)
-  * Question https://leetcode.com/problems/leaf-similar-trees/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LeafSimilarTrees.java
-
-- 637  Average of Levels in Binary Tree(easy)
-  * Question https://leetcode.com/problems/leaf-similar-trees/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/AverageofLevelsinBinaryTree.java
-
-- 669 Trim a Binary Search Tree (easy)
-  * Question https://leetcode.com/problems/trim-a-binary-search-tree/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TrimaBinarySearchTree.java
-
-- 538 Convert BST to Greater Tree
- * https://leetcode.com/problems/convert-bst-to-greater-tree/ 
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertBSTtoGreaterTree.java
-  
-- 635 Two Sum IV - Input is a BST
- * https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TwoSumIVInputisaBST.java
-  
-- 606 Construct String from Binary Tree
- * https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructStringfromBinaryTree.java
-  
-- 530 Minimum Absolute Difference in BST
- * https://leetcode.com/problems/minimum-absolute-difference-in-bst/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumAbsoluteDifferenceinBST.java
-
-- 107 Binary Tree Level Order Traversal II
- * https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversalII.java
-
-- 100 Same Tree
- * https://leetcode.com/problems/same-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java
-
-- 100 Sum of Left Leaves
- * https://leetcode.com/problems/sum-of-left-leaves/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java
-
-- 993 Cousins in Binary Tree
- * https://leetcode.com/problems/cousins-in-binary-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CousinsinBinaryTree.java
-
-- 257 Binary Tree Paths
- * https://leetcode.com/problems/binary-tree-paths/submissions/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java
-
-- 235 Lowest Common Ancestor of a Binary Search Tree
- * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java
-
-- 563. Binary Tree Tilt
-  * https://leetcode.com/problems/binary-tree-tilt/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeTilt.java
-
-- 101 Symmetric Tree
- * https://leetcode.com/problems/symmetric-tree/ 
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SymmetricTree.java
-
-- 572 Subtree of Another Tree
- * https://leetcode.com/problems/subtree-of-another-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SubtreeofAnotherTree.java
-
-- 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
- * https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ClonedTarget.java
- 
-- 513  Find Bottom Left Tree Value
- * https://leetcode.com/problems/find-bottom-left-tree-value/
- * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindBottomLeftTreeValue.java
+| No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+| 938 |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | [RangeSumofBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RangeSumofBST.java)|
+| 617 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy| [MergeTwoBinaryTrees](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MergeTwoBinaryTrees.java)|
+| 700| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| Easy | [SearchinaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SearchinaBinarySearchTree.java)|
+| 266 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |[InvertBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InvertBinaryTree.java) |
+| 589 |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| Easy | [NaryTreePreorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePreorderTraversal.java)|
+ | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Medium| [BinaryTreePostorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePostorderTraversal.java)|
+ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | [IncreasingOrderSearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/IncreasingOrderSearchTree.java)|
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| Easy |[NaryTreePostorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/NaryTreePostorderTraversal.java) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [BinaryTreePreorderTraversal]( https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePreorderTraversal.java)|
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | [UnivaluedBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/UnivaluedBinaryTree.java)|
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [BinaryTreeLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversal.java)|
+| 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [MaximumDepthofBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofBinaryTree.java) |
+| 874 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|  Easy | [LeafSimilarTrees](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LeafSimilarTrees.java)|
+| 637 |[ Average of Levels in Binary Tree](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [AverageofLevelsinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/AverageofLevelsinBinaryTree.java)|
+| 669|[ Trim a Binary Search Tree ](https://leetcode.com/problems/trim-a-binary-search-tree/) | Easy | [TrimaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TrimaBinarySearchTree.java) |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |  [ConvertBSTtoGreaterTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertBSTtoGreaterTree.java)|
+| 635 |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Easy |[TwoSumIVInputisaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TwoSumIVInputisaBST.java)|
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [ConstructStringfromBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructStringfromBinaryTree.java)|
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [MinimumAbsoluteDifferenceinBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumAbsoluteDifferenceinBST.java)|
+| 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| Easy | [BinaryTreeLevelOrderTraversalII](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversalII.java)|
+| 100|[ Same Tree](https://leetcode.com/problems/same-tree/)| Easy | [SameTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java) |
+|100 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| Easy | [SumofLeftLeaves](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java)|
+| 993 |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | [CousinsinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CousinsinBinaryTree.java)|
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/)| Easy |[BinaryTreePaths](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePaths.java)|
+|235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Easy |[LowestCommonAncestorofaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/LowestCommonAncestorofaBinarySearchTree.java)|
+| 563| [ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| Easy | [BinaryTreeTilt](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeTilt.java)|
+| 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/ ) | Easy | [SymmetricTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SymmetricTree.java)|
+|572 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |[SubtreeofAnotherTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SubtreeofAnotherTree.java)|
+|1379|  [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy | [ClonedTarget](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ClonedTarget.java)|
+| 513 | [ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium | [FindBottomLeftTreeValue](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindBottomLeftTreeValue.java)|
+| 108 | [ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [ConvertSortedArraytoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertSortedArraytoBinarySearchTree.java)|
  
   
 ## Math
-- 949 Largest Time for Given Digits (easy)
-  * Question https://leetcode.com/problems/largest-time-for-given-digits/
-  * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+| 949 |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| Easy | [LargestTimeforGivenDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java)|
+
+ ## Misc
+  No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+| 1242 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| Easy |[NumberofStepstoReduceaNumbertoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java) |
+| 1365 |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)| Easy | [HowManyNumbersAreSmallerThantheCurrentNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/HowManyNumbersAreSmallerThantheCurrentNumber.java)|
+| 1281 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [SubtracttheProductandSumofDigitsofanInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java)|
