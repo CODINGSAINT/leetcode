@@ -1,44 +1,22 @@
 ## String
-- 520 Detect Capital
-    * Question https://leetcode.com/problems/detect-capital/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java
-- 1221 Split a String in Balanced Strings
-    * Question https://leetcode.com/problems/split-a-string-in-balanced-strings/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java
-
-- 345 Reverse Vowels of a String
-    * Question https://leetcode.com/problems/reverse-vowels-of-a-string/
-    * Solution https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java
+ | No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+ |  520 |  [Detect Capital](https://leetcode.com/problems/detect-capital/) |  Easy | https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java  | 
+ |  1221 |  [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |  Easy |[SplitaStringinBalancedStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java)  | 
+ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |Easy |[ReverseVowelsofaString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java)|
 
 ## Arrays
-- 1480 Running Sum of 1d Array
-  * Question  https://leetcode.com/problems/running-sum-of-1d-array/ 
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RunningSumof1dArray.java
-  
-- 1431 Kids With the Greatest Number of Candies
-  * Question  https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KidsWithTheGreatestNumberofCandies.java
-  
-- 1309 Decrypt String from Alphabet to Integer Mapping
-  * Question  https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecryptStringfromAlphabettoIntegerMapping.java
-- 1389 Create Target Array in the Given Order (Easy)
-  * Question  https://leetcode.com/problems/create-target-array-in-the-given-order/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CreateTargetArrayintheGivenOrder.java
+ | No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+  | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy| [RunningSumof1dArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RunningSumof1dArray.java)|
+  | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy |[KidsWithTheGreatestNumberofCandies](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KidsWithTheGreatestNumberofCandies.java)|
+  | 1309 |[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|Easy|[DecryptStringfromAlphabettoIntegerMapping](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecryptStringfromAlphabettoIntegerMapping.java)|
+  | 1389 |[Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Easy | [CreateTargetArrayintheGivenOrder](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CreateTargetArrayintheGivenOrder.java)|
+  | 1450 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|Easy | [NumberofStudentsDoingHomeworkataGivenTime](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java)|
+  | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| Easy | [DecompressRunLengthEncodedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java)|
+  | 220  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium | [ContainsDuplicateIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java)|
 
-- 1450 Number of Students Doing Homework at a Given Time  (easy)
-  * Question  https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java
-- 1313 Decompress Run-Length Encoded List  (easy)
-  * Question  https://leetcode.com/problems/decompress-run-length-encoded-list/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java
-- 1313 Decompress Run-Length Encoded List(easy)
-  * Question  https://leetcode.com/problems/decompress-run-length-encoded-list/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java
 
-- 220 Contains Duplicate III(Medium)
-  * Question  https://leetcode.com/problems/contains-duplicate-iii/
-  * Solution  https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java
 
 ## Stack
 - 125 Valid Palindrome
