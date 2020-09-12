@@ -50,6 +50,8 @@
   | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | [SwapNodesinPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java)|
  |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
 |1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeepestLeavesSum.java) |
+|1315| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [SumofNodeswithEvenValuedGrandparent](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SumofNodeswithEvenValuedGrandparent.java) |
+
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
