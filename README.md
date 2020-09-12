@@ -49,6 +49,7 @@
   | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | [PalindromeLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/PalindromeLinkedList.java) |
   | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | [SwapNodesinPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java)|
  |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
+|1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeepestLeavesSum.java) |
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
