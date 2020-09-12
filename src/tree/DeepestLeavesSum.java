@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-//|1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/DeepestLeavesSum.java) |
+//|1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeepestLeavesSum.java) |
 public class DeepestLeavesSum {
     public int deepestLeavesSum(TreeNode root) {
         if (root == null ) return 0;

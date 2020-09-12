@@ -1,5 +1,5 @@
 package tree;
-//|1315| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [SumofNodeswithEvenValuedGrandparent](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SumofNodeswithEvenValuedGrandparent.java) |
+//|1315| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [SumofNodeswithEvenValuedGrandparent](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofNodeswithEvenValuedGrandparent.java) |
 public class SumofNodeswithEvenValuedGrandparent {
     Integer sum = 0;
 
