@@ -96,7 +96,7 @@
 | 108 | [ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [ConvertSortedArraytoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertSortedArraytoBinarySearchTree.java)|
  1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeepestLeavesSum.java) |
  |1315| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [SumofNodeswithEvenValuedGrandparent](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofNodeswithEvenValuedGrandparent.java) |
-
+|671| [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | [SecondMaxNodeInaBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SecondMaxNodeInaBinaryTree.java)|
   
 ## Math
  No  |  Question |  Level |Solution   | 
