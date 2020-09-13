@@ -15,7 +15,7 @@
   | 1450 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|Easy | [NumberofStudentsDoingHomeworkataGivenTime](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java)|
   | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| Easy | [DecompressRunLengthEncodedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java)|
   | 220  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium | [ContainsDuplicateIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java)|
-
+   |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| Easy | (LuckyNumbersinaMatrix)(https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LuckyNumbersinaMatrix.java)|
 
 
 ## Stack
