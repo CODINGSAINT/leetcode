@@ -4,7 +4,9 @@
  |  520 |  [Detect Capital](https://leetcode.com/problems/detect-capital/) |  Easy | [DetectCapital](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetectCapital.java)  | 
  |  1221 |  [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |  Easy |[SplitaStringinBalancedStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/SplitaStringinBalancedStrings.java)  | 
  | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |Easy |[ReverseVowelsofaString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java)|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy | [ReverseString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseString.java)|
+ |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy | [ReverseString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseString.java)|
+ |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy | [UniqueMorseCodeWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/UniqueMorseCodeWords.java)|
+
 ## Arrays
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -17,6 +19,7 @@
   | 220  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium | [ContainsDuplicateIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java)|
    |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| Easy |[LuckyNumbersinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LuckyNumbersinaMatrix.java)|
    |682| [Baseball Game](https://leetcode.com/problems/baseball-game/)| Easy |[Baseball Game](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BaseballGame.java)|
+  | 1572 | [ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Easy| [MatrixDiagonalSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MatrixDiagonalSum.java)|
 
 
 ## Stack
@@ -98,7 +101,11 @@
  1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [DeepestLeavesSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeepestLeavesSum.java) |
  |1315| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [SumofNodeswithEvenValuedGrandparent](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofNodeswithEvenValuedGrandparent.java) |
 |671| [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | [SecondMaxNodeInaBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SecondMaxNodeInaBinaryTree.java)|
-  
+|1161| [ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Easy | [MaximumLevelSumofaBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SecondMaxNodeInaBinaryTree.java)|
+|111| [ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [MinimumDepthofBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumDepthofBinaryTree.java)|
+|559|  [ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [MaximumDepthofNaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofNaryTree.java)|
+|112| [ Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [PathSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSum.java)|
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
