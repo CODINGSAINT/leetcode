@@ -106,6 +106,10 @@
 |559|  [ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [MaximumDepthofNaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofNaryTree.java)|
 |112| [ Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [PathSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSum.java)|
 
+## Graph
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| Easy | [FindtheTownJudge](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FindtheTownJudge.java)| 
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
