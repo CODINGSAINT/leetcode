@@ -110,6 +110,8 @@
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| Easy | [FindtheTownJudge](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FindtheTownJudge.java)| 
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| Easy | [FlowerPlantingWithNoAdjacent](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FlowerPlantingWithNoAdjacent.java)| 
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
