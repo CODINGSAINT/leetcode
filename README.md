@@ -105,6 +105,7 @@
 |111| [ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [MinimumDepthofBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumDepthofBinaryTree.java)|
 |559|  [ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [MaximumDepthofNaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofNaryTree.java)|
 |112| [ Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [PathSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSum.java)|
+|654| [ Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Easy | [MaximumBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumBinaryTree.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
