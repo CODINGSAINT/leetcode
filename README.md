@@ -1,3 +1,10 @@
+![language](https://github.com/CODINGSAINT/leetcode/blob/master/resources/language-java-blue.svg?raw=true)
+![licence](https://github.com/CODINGSAINT/leetcode/blob/master/resources/licence-MIT-orange.svg?raw=true)
+![twitter](https://github.com/CODINGSAINT/leetcode/blob/master/resources/twitter-kumar__pallav-blue.svg?raw=true)
+
+## Leetcode Solutions Java
+This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kumar_pallav) . The solutions are mostly in Java. 
+
 ## String
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
