@@ -114,7 +114,7 @@
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| Easy | [FlowerPlantingWithNoAdjacent](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FlowerPlantingWithNoAdjacent.java)| 
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| Medium | [KeysandRooms](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/KeysandRooms.java)| 
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)| Medium | [JumpGameIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/JumpGameIII.java)| 
-
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
