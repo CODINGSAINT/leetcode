@@ -112,7 +112,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |111| [ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [MinimumDepthofBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumDepthofBinaryTree.java)|
 |559|  [ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [MaximumDepthofNaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofNaryTree.java)|
 |112| [ Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [PathSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSum.java)|
-|654| [ Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Easy | [MaximumBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumBinaryTree.java)|
+|802 |[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [FindEventualSafeStates](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindEventualSafeStates.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
@@ -122,6 +122,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| Medium | [KeysandRooms](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/KeysandRooms.java)| 
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)| Medium | [JumpGameIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/JumpGameIII.java)| 
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
