@@ -125,6 +125,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium|  [CourseSchedule](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|Medium |[RedundantConnection](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
+| 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Medium |[ReconstructItinerary](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/ReconstructItinerary.java)|
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|

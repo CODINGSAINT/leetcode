@@ -7,7 +7,11 @@ import java.util.Arrays;
  * 684. Redundant Connection
  */
 public class RedundantConnection {
-
+    public static void main(String[] args) {
+        RedundantConnection r= new RedundantConnection();
+       int edges[][]= { { 1,2} ,{2,3 },{3,4}, {1,4},{1,5}};
+       r.findRedundantConnection(edges);
+    }
     // This problem is of  Union Find
     public int[] findRedundantConnection(int[][] edges) {
         int totalNode =edges.length;
@@ -33,7 +37,7 @@ public class RedundantConnection {
 
     int find(int vertex, int[] parent) {
         while(parent[vertex]>-1){
-            //System.out.println("vertex: "+vertex+"parent[vertex] "+parent[vertex]);
+          System.out.println("vertex: "+vertex+"parent[vertex] "+parent[vertex]);
             vertex=parent[vertex];
         }
 
