@@ -126,6 +126,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium|  [CourseSchedule](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|Medium |[RedundantConnection](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
 | 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Medium |[ReconstructItinerary](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/ReconstructItinerary.java)|
+| 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| Medium |[ReconstructItinerary](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseScheduleII.java)|
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
