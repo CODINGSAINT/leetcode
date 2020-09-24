@@ -127,7 +127,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|Medium |[RedundantConnection](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
 | 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Medium |[ReconstructItinerary](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/ReconstructItinerary.java)|
 | 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| Medium |[CourseScheduleII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseScheduleII.java)|
-
+|1557 |[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)| Medium | [MinimumNumberofVerticestoReachAllNodes](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/MinimumNumberofVerticestoReachAllNodes.java)|
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
