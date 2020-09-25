@@ -27,7 +27,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
    |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| Easy |[LuckyNumbersinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LuckyNumbersinaMatrix.java)|
    |682| [Baseball Game](https://leetcode.com/problems/baseball-game/)| Easy |[Baseball Game](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BaseballGame.java)|
   | 1572 | [ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Easy| [MatrixDiagonalSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MatrixDiagonalSum.java)|
-
+ |389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [FindtheDifference](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDifference.java)|
 
 ## Stack
 | No  |  Question |  Level |Solution   | 
@@ -128,6 +128,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Medium |[ReconstructItinerary](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/ReconstructItinerary.java)|
 | 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| Medium |[CourseScheduleII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseScheduleII.java)|
 |1557 |[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)| Medium | [MinimumNumberofVerticestoReachAllNodes](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/MinimumNumberofVerticestoReachAllNodes.java)|
+|1387 |[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)| Medium | [SortIntegersbyThePowerValue](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/SortIntegersbyThePowerValue.java)|
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
