@@ -113,7 +113,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |559|  [ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | [MaximumDepthofNaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDepthofNaryTree.java)|
 |112| [ Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [PathSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSum.java)|
 |802 |[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [FindEventualSafeStates](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindEventualSafeStates.java)|
-
+|701 |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium|[InsertintoaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InsertintoaBinarySearchTree.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
