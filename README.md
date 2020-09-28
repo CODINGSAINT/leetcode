@@ -31,7 +31,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
    |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| Easy |[SquaresofaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SquaresofaSortedArray.java)|
   | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy| [FindNumberswithEvenNumberofDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNumberswithEvenNumberofDigits.java)|
  |1266 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| Easy | [MinimumTimeVisitingAllPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MinimumTimeVisitingAllPoints.java)|
-
+|202|  [Happy Number](https://leetcode.com/problems/happy-number/)| Easy | 
 ## Stack
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
