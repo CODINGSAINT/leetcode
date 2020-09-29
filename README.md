@@ -28,10 +28,12 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
    |682| [Baseball Game](https://leetcode.com/problems/baseball-game/)| Easy |[Baseball Game](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BaseballGame.java)|
   | 1572 | [ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Easy| [MatrixDiagonalSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MatrixDiagonalSum.java)|
  |389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [FindtheDifference](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDifference.java)|
-   |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| Easy |[SquaresofaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SquaresofaSortedArray.java)|
+ |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| Easy |[SquaresofaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SquaresofaSortedArray.java)|
   | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy| [FindNumberswithEvenNumberofDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNumberswithEvenNumberofDigits.java)|
  |1266 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| Easy | [MinimumTimeVisitingAllPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MinimumTimeVisitingAllPoints.java)|
 |202|  [Happy Number](https://leetcode.com/problems/happy-number/)| Easy | [HappyNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HappyNumber.java)|
+|1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| Easy | [SumofAllOddLengthSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SumofAllOddLengthSubarrays.java)|
+
 ## Stack
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -118,7 +120,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |802 |[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [FindEventualSafeStates](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindEventualSafeStates.java)|
 |701 |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium|[InsertintoaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InsertintoaBinarySearchTree.java)|
 |450| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| Medium |[DeleteNodeinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeleteNodeinaBST.java)|
-
+|1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Medium |[ConstructBinarySearchTreefromPreorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructBinarySearchTreefromPreorderTraversal.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
