@@ -121,6 +121,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |701 |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium|[InsertintoaBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/InsertintoaBinarySearchTree.java)|
 |450| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| Medium |[DeleteNodeinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeleteNodeinaBST.java)|
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Medium |[ConstructBinarySearchTreefromPreorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructBinarySearchTreefromPreorderTraversal.java)|
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Medium | [BinaryTreeZigzagLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeZigzagLevelOrderTraversal.java)|
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
