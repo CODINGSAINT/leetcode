@@ -74,7 +74,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Easy| [DailyTemperatures](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/DailyTemperatures.java) |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [BinaryTreeInorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/BinaryTreeInorderTraversal.java) |
  | 1 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TwoSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java)|
-
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|Easy | [UniqueNumberofOccurrences](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/UniqueNumberofOccurrences.java)|
 
 ## Tree
 | No  |  Question |  Level |Solution   | 
