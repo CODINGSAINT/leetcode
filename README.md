@@ -33,6 +33,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |1266 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| Easy | [MinimumTimeVisitingAllPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MinimumTimeVisitingAllPoints.java)|
 |202|  [Happy Number](https://leetcode.com/problems/happy-number/)| Easy | [HappyNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HappyNumber.java)|
 |1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| Easy | [SumofAllOddLengthSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SumofAllOddLengthSubarrays.java)|
+|39| [CombinationSum](https://leetcode.com/problems/combination-sum/) | Medium | [CombinationSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CombinationSum.java)|
 
 ## Stack
 | No  |  Question |  Level |Solution   | 
