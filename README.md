@@ -36,6 +36,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |39| [CombinationSum](https://leetcode.com/problems/combination-sum/) | Medium | [CombinationSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CombinationSum.java)|
 
 ## Stack
+
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
   | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy |[ValidPalindrome](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/ValidPalindrome.java)|
@@ -139,6 +140,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| Medium |[CourseScheduleII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseScheduleII.java)|
 |1557 |[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)| Medium | [MinimumNumberofVerticestoReachAllNodes](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/MinimumNumberofVerticestoReachAllNodes.java)|
 |1387 |[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)| Medium | [SortIntegersbyThePowerValue](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/SortIntegersbyThePowerValue.java)|
+|785 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)| Medium | [IsGraphBipartite](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/IsGraphBipartite.java)|
 
 ## Math
  No  |  Question |  Level |Solution   | 
