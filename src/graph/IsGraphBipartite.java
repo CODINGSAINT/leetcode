@@ -1,6 +1,6 @@
 package graph;
 import java.util.*;
-
+//785. Is Graph Bipartite?
 public class IsGraphBipartite {
     public boolean isBipartite(int[][] graph) {
         // 0 = no color = 1 = red 2 =blue
