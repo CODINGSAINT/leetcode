@@ -125,6 +125,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Medium |[ConstructBinarySearchTreefromPreorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructBinarySearchTreefromPreorderTraversal.java)|
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Medium | [BinaryTreeZigzagLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
+
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -153,3 +155,4 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 1242 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| Easy |[NumberofStepstoReduceaNumbertoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java) |
 | 1365 |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)| Easy | [HowManyNumbersAreSmallerThantheCurrentNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/HowManyNumbersAreSmallerThantheCurrentNumber.java)|
 | 1281 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [SubtracttheProductandSumofDigitsofanInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java)|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| Easy |  [ComplementofBase10Integer](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/ComplementofBase10Integer.java)|
