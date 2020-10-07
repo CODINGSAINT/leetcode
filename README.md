@@ -69,7 +69,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | [PalindromeLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/PalindromeLinkedList.java) |
   | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | [SwapNodesinPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java)|
  |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
-|
+ |61| [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [RotateList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RotateList.java) |
+
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -145,7 +146,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1557 |[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)| Medium | [MinimumNumberofVerticestoReachAllNodes](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/MinimumNumberofVerticestoReachAllNodes.java)|
 |1387 |[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)| Medium | [SortIntegersbyThePowerValue](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/SortIntegersbyThePowerValue.java)|
 |785 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)| Medium | [IsGraphBipartite](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/IsGraphBipartite.java)|
-
+| 547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Medium|[FriendCircles](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FriendCircles.java)|
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
