@@ -151,6 +151,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 949 |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| Easy | [LargestTimeforGivenDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java)|
+## Binary Search
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+| 704 |[Binary Search](https://leetcode.com/problems/binary-search/)| Easy | [BinarySearch](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/BinarySearch.java)|
 
  ## Misc
   No  |  Question |  Level |Solution   | 
