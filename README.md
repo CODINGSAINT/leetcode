@@ -71,7 +71,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | [SwapNodesinPairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwapNodesinPairs.java)|
  |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
  |61| [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [RotateList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RotateList.java) |
-
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|[AddTwoNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbers.java) |
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -130,6 +130,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Medium | [BinaryTreeZigzagLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
+|449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)| Medium |  [SerializeandDeserializeBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SerializeandDeserializeBST.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
