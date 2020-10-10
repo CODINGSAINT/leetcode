@@ -156,6 +156,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 704 |[Binary Search](https://leetcode.com/problems/binary-search/)| Easy | [BinarySearch](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/BinarySearch.java)|
+## Sorting
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+| 452 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Medium | [MinimumNumberofArrowstoBurstBalloons](https://github.com/CODINGSAINT/leetcode/blob/master/src/sorting/MinimumNumberofArrowstoBurstBalloons.java)|
 
  ## Misc
   No  |  Question |  Level |Solution   | 
