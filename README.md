@@ -13,6 +13,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |Easy |[ReverseVowelsofaString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseVowelsofaString.java)|
  |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy | [ReverseString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseString.java)|
  |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy | [UniqueMorseCodeWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/UniqueMorseCodeWords.java)|
+ 1436| [Destination City](https://leetcode.com/problems/destination-city/)| Easy| [DestinationCity](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DestinationCity.java)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
