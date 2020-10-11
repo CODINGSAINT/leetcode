@@ -36,7 +36,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |39| [CombinationSum](https://leetcode.com/problems/combination-sum/) | Medium | [CombinationSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CombinationSum.java)|
 |1288| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)| Medium | [RemoveCoveredIntervals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RemoveCoveredIntervals.java)|
 |1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| Easy | [MaximumProductofTwoElementsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumProductofTwoElementsinanArray.java)|
-832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
+|832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[HeightChecker](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HeightChecker.java)|
 
 ## Stack
 
