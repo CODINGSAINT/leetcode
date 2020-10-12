@@ -14,6 +14,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy | [ReverseString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReverseString.java)|
  |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy | [UniqueMorseCodeWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/UniqueMorseCodeWords.java)|
  |1436| [Destination City](https://leetcode.com/problems/destination-city/)| Easy| [DestinationCity](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DestinationCity.java)|
+|859| [Buddy Strings](https://leetcode.com/problems/buddy-strings/)| Easy| [BuddyString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BuddyString.java)|
+|316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)| Easy| [RemoveDuplicateLetters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/RemoveDuplicateLetters.java)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
@@ -39,6 +41,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| Easy | [MaximumProductofTwoElementsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumProductofTwoElementsinanArray.java)|
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[HeightChecker](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HeightChecker.java)|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|[CountNegativeNumbersinaSortedMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountNegativeNumbersinaSortedMatrix.java)|
 
 ## Stack
 
