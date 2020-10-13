@@ -158,6 +158,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 949 |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| Easy | [LargestTimeforGivenDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java)|
+| 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [ReverseInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ReverseInteger.java)|
+
 ## Binary Search
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
