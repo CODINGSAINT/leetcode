@@ -176,7 +176,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| Easy|[HouseRobber](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobber.java)|
-|198|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| Easy|[HouseRobberII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberII.java)|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| Easy|[HouseRobberII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberII.java)|
 
  ## Misc
   No  |  Question |  Level |Solution   | 
