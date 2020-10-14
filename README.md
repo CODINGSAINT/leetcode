@@ -77,6 +77,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Medium | [ConvertSortedListtoBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertSortedListtoBinarySearchTree.java) |
  |61| [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [RotateList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RotateList.java) |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|[AddTwoNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbers.java) |
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[SortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SortList.java) |
+
+
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -168,6 +171,12 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 452 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Medium | [MinimumNumberofArrowstoBurstBalloons](https://github.com/CODINGSAINT/leetcode/blob/master/src/sorting/MinimumNumberofArrowstoBurstBalloons.java)|
+
+###Dynamic Programming
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| Easy|[HouseRobber](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobber.java)|
+|198|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| Easy|[HouseRobberII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberII.java)|
 
  ## Misc
   No  |  Question |  Level |Solution   | 
