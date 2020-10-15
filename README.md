@@ -42,6 +42,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[HeightChecker](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HeightChecker.java)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|[CountNegativeNumbersinaSortedMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountNegativeNumbersinaSortedMatrix.java)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| Medium | [RotateArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateArray.java)|
+|1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| Easy| [XOROperationinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/XOROperationinanArray.java)|
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy| [CellwithOddValuesinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CellwithOddValuesinaMatrix.java)|
 
 ## Stack
 
@@ -177,7 +180,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |---|---|---|---|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| Easy|[HouseRobber](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobber.java)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| Easy|[HouseRobberII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberII.java)|
-
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| Easy| [MinCostClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/MinCostClimbingStairs.java)|
  ## Misc
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
