@@ -45,6 +45,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| Medium | [RotateArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateArray.java)|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| Easy| [XOROperationinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/XOROperationinanArray.java)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy| [CellwithOddValuesinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CellwithOddValuesinaMatrix.java)|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard | [FirstMissingPositive](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FirstMissingPositive.java)|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
+
 
 ## Stack
 
