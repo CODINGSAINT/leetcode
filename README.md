@@ -95,6 +95,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [BinaryTreeInorderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/BinaryTreeInorderTraversal.java) |
  | 1 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TwoSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/TwoSum.java)|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|Easy | [UniqueNumberofOccurrences](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/UniqueNumberofOccurrences.java)|
+|187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| Medium| [RepeatedDNASequences](https://github.com/CODINGSAINT/leetcode/blob/master/src/hashtable/RepeatedDNASequences.java)|
 
 ## Tree
 | No  |  Question |  Level |Solution   | 
@@ -184,7 +185,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| Easy|[HouseRobber](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobber.java)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| Easy|[HouseRobberII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberII.java)|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| Easy| [MinCostClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/MinCostClimbingStairs.java)|
- ## Misc
+ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| Easy| [ClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/ClimbingStairs.java)|
+  
+   
+  ## Misc
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 | 1242 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| Easy |[NumberofStepstoReduceaNumbertoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/NumberofStepstoReduceaNumbertoZero.java) |
