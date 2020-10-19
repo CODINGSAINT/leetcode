@@ -179,6 +179,12 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |---|---|---|---|
 | 452 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Medium | [MinimumNumberofArrowstoBurstBalloons](https://github.com/CODINGSAINT/leetcode/blob/master/src/sorting/MinimumNumberofArrowstoBurstBalloons.java)|
 
+###Greedy
+ No  |  Question |  Level |Solution   | 
+ |---|---|---|---|
+|1007| [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Medium |[MinimumDominoRotationsForEqualRow](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/MinimumDominoRotationsForEqualRow.java)|
+
+
 ###Dynamic Programming
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
