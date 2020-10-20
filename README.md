@@ -47,7 +47,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy| [CellwithOddValuesinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CellwithOddValuesinaMatrix.java)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard | [FirstMissingPositive](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FirstMissingPositive.java)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
-
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy | [ReplaceElementswithGreatestElementonRightSide](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ReplaceElementswithGreatestElementonRightSide.java)|
 
 ## Stack
 
@@ -145,7 +145,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Medium | [BinaryTreeZigzagLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
-
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| Medium|[BinarySearchTreetoGreaterSumTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinarySearchTreetoGreaterSumTree.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|

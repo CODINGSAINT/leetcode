@@ -1,7 +1,7 @@
 package graph;
 
 import java.util.*;
-//https://leetcode.com/problems/clone-graph/
+//Clone Grap https://leetcode.com/problems/clone-graph/
 public class CloneGraph {
 
     public Node cloneGraph(Node node) {
