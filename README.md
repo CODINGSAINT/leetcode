@@ -145,7 +145,6 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Medium | [BinaryTreeZigzagLevelOrderTraversal](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
-|449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)| Medium |  [SerializeandDeserializeBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SerializeandDeserializeBST.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
@@ -164,11 +163,16 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1387 |[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)| Medium | [SortIntegersbyThePowerValue](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/SortIntegersbyThePowerValue.java)|
 |785 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)| Medium | [IsGraphBipartite](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/IsGraphBipartite.java)|
 | 547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Medium|[FriendCircles](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FriendCircles.java)|
+| 547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Medium|[FriendCircles](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FriendCircles.java)|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| Medium |  [CloneGraph](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CloneGraph.java)|
+
+
 ## Math
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 949 |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| Easy | [LargestTimeforGivenDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java)|
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [ReverseInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ReverseInteger.java)|
+| 728 |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| Easy | [SelfDividingNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/SelfDividingNumbers.java)|
 
 ## Binary Search
  No  |  Question |  Level |Solution   | 
@@ -179,13 +183,14 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |---|---|---|---|
 | 452 |[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Medium | [MinimumNumberofArrowstoBurstBalloons](https://github.com/CODINGSAINT/leetcode/blob/master/src/sorting/MinimumNumberofArrowstoBurstBalloons.java)|
 
-###Greedy
+## Greedy
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 |1007| [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Medium |[MinimumDominoRotationsForEqualRow](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/MinimumDominoRotationsForEqualRow.java)|
+|392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy |[IsSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/IsSubsequence.java)|
 
 
-###Dynamic Programming
+## Dynamic Programming
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| Easy|[HouseRobber](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobber.java)|
