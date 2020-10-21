@@ -1,4 +1,4 @@
-package arrays;
+package stack;
 
 import java.util.*;
 //https://leetcode.com/problems/asteroid-collision/
