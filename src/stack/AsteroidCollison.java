@@ -56,7 +56,7 @@ public class AsteroidCollison {
 
 
     /**
-     * Below solution si without stack using a list
+     * Below solution is without stack  and using a list
      * @param asteroids
      * @return
      */
