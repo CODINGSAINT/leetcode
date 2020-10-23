@@ -49,6 +49,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy | [ReplaceElementswithGreatestElementonRightSide](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ReplaceElementswithGreatestElementonRightSide.java)|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
+
+
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
@@ -66,7 +69,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |  | [MinimumRemovetoMakeValidParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumRemovetoMakeValidParentheses.java) |
   |921 |  [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| Medium| [MinimumAddtoMakeParenthesesValid](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumAddtoMakeParenthesesValid.java) |
   |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)| Medium | [AsteroidCollison](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/AsteroidCollison.java) |
-                                                                                                            
+  |456|[132 Pattern](https://leetcode.com/problems/132-pattern/)| Medium| [_132Pattern](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/_132Pattern.java) |
+                                                                                         
   
 ## LinkedList 
 | No  |  Question |  Level |Solution   | 
@@ -176,6 +180,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 949 |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)| Easy | [LargestTimeforGivenDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/LargestTimeforGivenDigits.java)|
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [ReverseInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ReverseInteger.java)|
 | 728 |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| Easy | [SelfDividingNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/SelfDividingNumbers.java)|
+| 204 |[Count Primes](https://leetcode.com/problems/count-primes/)| Easy | [CountPrimes](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/CountPrimes.java)|
 
 ## Binary Search
  No  |  Question |  Level |Solution   | 
@@ -201,7 +206,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| Easy| [MinCostClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/MinCostClimbingStairs.java)|
  |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| Easy| [ClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/ClimbingStairs.java)|
  |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Easy | [BestTimetoBuyandSellStock](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStock.java)|
-   
+   |121| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
+      
   ## Misc
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
