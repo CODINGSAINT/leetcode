@@ -49,7 +49,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy | [ReplaceElementswithGreatestElementonRightSide](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ReplaceElementswithGreatestElementonRightSide.java)|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
-|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [SorttheMatrixDiagonally](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
 
 
 ## Stack
