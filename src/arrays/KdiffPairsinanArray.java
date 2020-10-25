@@ -9,7 +9,7 @@ public class KdiffPairsinanArray {
         System.out.println(k.findPairs(nums,0));
     }
 
-    public int findPairs(int[] nums, int k) {
+    public int findPairs(int[] nums, int k) { 
         int pair=0;
 
         Set<Integer> vals= new HashSet<>();

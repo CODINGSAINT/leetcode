@@ -197,7 +197,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |---|---|---|---|
 |1007| [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Medium |[MinimumDominoRotationsForEqualRow](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/MinimumDominoRotationsForEqualRow.java)|
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy |[IsSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/IsSubsequence.java)|
-
+|948| [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)| Medium | [BagofTokens](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/BagofTokens.java)|
 
 ## Dynamic Programming
  No  |  Question |  Level |Solution   | 
