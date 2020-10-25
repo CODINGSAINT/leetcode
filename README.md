@@ -51,6 +51,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [SorttheMatrixDiagonally](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Medium | [KdiffPairsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KdiffPairsinanArray.java)|
+|1460| [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Easy| [MakeTwoArraysEqualbyReversingSubarrays](ttps://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MakeTwoArraysEqualbyReversingSubarrays.java)|
 
 
 ## Stack
