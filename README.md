@@ -83,7 +83,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |[MergeTwoSortedLists](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/MergeTwoSortedLists.java)| 
  | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [RemoveDuplicatesfromSortedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RemoveDuplicatesfromSortedList.java) |
  | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |Easy |[LinkedListCycle](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListCycle.java) |
- | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [IntersectionofTwoLinkedLists](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/IntersectionofTwoLinkedLists.java) |
+  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |Medium |[LinkedListCycleII](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListCycleII.java) |
+  | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [IntersectionofTwoLinkedLists](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/IntersectionofTwoLinkedLists.java) |
  | 328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy |[OddEvenLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/OddEvenLinkedList.java) |
  | 725 |[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)| Easy |[SplitLinkedListinParts](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SplitLinkedListinParts.java)|
   | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Easy | [NextGreaterNodeInLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/NextGreaterNodeInLinkedList.java)|
@@ -183,7 +184,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [ReverseInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ReverseInteger.java)|
 | 728 |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| Easy | [SelfDividingNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/SelfDividingNumbers.java)|
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)| Easy | [CountPrimes](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/CountPrimes.java)|
-
+ |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Medium|[ChampagneTower](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ChampagneTower.java)|
+       
 ## Binary Search
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
