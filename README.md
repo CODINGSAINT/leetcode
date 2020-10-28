@@ -52,6 +52,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [SorttheMatrixDiagonally](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Medium | [KdiffPairsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KdiffPairsinanArray.java)|
 |1460| [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Easy| [MakeTwoArraysEqualbyReversingSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MakeTwoArraysEqualbyReversingSubarrays.java)|
+|228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)| Easy| [SummaryRanges](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SummaryRanges.java)|
+|228| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy| [PascalsTriangle](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/PascalsTriangle.java)|
 
 
 ## Stack
@@ -156,6 +158,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| Medium |  [BinaryTreeRightSideView](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeRightSideView.java)|
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| Medium|[BinarySearchTreetoGreaterSumTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinarySearchTreetoGreaterSumTree.java)|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Medium| [CountGoodNodesinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CountGoodNodesinBinaryTree.java)|
+
+
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|

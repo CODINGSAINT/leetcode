@@ -19,6 +19,7 @@ public class LinkedListCycleII {
                 slow=head;
                 break;
             }
+
         }
         while(fast!=null && fast.next!=null){
             if(slow==fast) return slow;
