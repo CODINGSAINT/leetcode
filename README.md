@@ -54,7 +54,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1460| [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Easy| [MakeTwoArraysEqualbyReversingSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MakeTwoArraysEqualbyReversingSubarrays.java)|
 |228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)| Easy| [SummaryRanges](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SummaryRanges.java)|
 |228| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy| [PascalsTriangle](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/PascalsTriangle.java)|
-
+|849| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [MaximizeDistancetoClosestPerson](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximizeDistancetoClosestPerson.java)|
 
 ## Stack
 
@@ -218,6 +218,13 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
    |121| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
  |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/) |Hard|[StoneGameIV]( https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameIV.java) |
  
+ 
+## Backtracking
+   No  |  Question |  Level |Solution   | 
+   |---|---|---|---|
+ | 1242 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)| Medium |[IteratorforCombination](https://github.com/CODINGSAINT/leetcode/blob/master/src/backtracking/IteratorforCombination.java) |
+
+
   ## Misc
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
