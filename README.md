@@ -215,8 +215,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| Easy| [ClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/ClimbingStairs.java)|
  |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Easy | [BestTimetoBuyandSellStock](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStock.java)|
  |123| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
- |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/) |Hard|[StoneGameIV]( https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameIV.java) |
- |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 
+ |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/) |Hard|[StoneGameIV](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameIV.java) |
+ |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [LongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/LongestIncreasingSubsequence.java)|
  
 ## Backtracking
    No  |  Question |  Level |Solution   | 
