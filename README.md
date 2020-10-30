@@ -130,7 +130,6 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |  [ConvertBSTtoGreaterTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConvertBSTtoGreaterTree.java)|
 | 635 |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Easy |[TwoSumIVInputisaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/TwoSumIVInputisaBST.java)|
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [ConstructStringfromBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/ConstructStringfromBinaryTree.java)|
-| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [MinimumAbsoluteDifferenceinBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumAbsoluteDifferenceinBST.java)|
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| Easy | [BinaryTreeLevelOrderTraversalII](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreeLevelOrderTraversalII.java)|
 | 100|[ Same Tree](https://leetcode.com/problems/same-tree/)| Easy | [SameTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SameTree.java) |
 |100 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| Easy | [SumofLeftLeaves](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/SumofLeftLeaves.java)|
@@ -215,9 +214,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| Easy| [MinCostClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/MinCostClimbingStairs.java)|
  |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| Easy| [ClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/ClimbingStairs.java)|
  |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Easy | [BestTimetoBuyandSellStock](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStock.java)|
-   |121| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
+ |123| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
  |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/) |Hard|[StoneGameIV]( https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameIV.java) |
- 
+ |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 
  
 ## Backtracking
    No  |  Question |  Level |Solution   | 
