@@ -158,7 +158,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)| Medium |  [EvenOddTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/EvenOddTree.java)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| Medium|[BinarySearchTreetoGreaterSumTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinarySearchTreetoGreaterSumTree.java)|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Medium| [CountGoodNodesinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CountGoodNodesinBinaryTree.java)|
-
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Hard|[RecoverBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RecoverBinarySearchTree.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
@@ -167,7 +167,6 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| Easy | [FlowerPlantingWithNoAdjacent](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FlowerPlantingWithNoAdjacent.java)| 
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| Medium | [KeysandRooms](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/KeysandRooms.java)| 
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)| Medium | [JumpGameIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/JumpGameIII.java)| 
-|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| Medium | [CountServersthatCommunicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CountServersthatCommunicate.java)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium|  [CourseSchedule](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|Medium |[RedundantConnection](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/CourseSchedule.java)|
@@ -217,7 +216,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |123| [Best Time to Buy and Sell Stock III ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [BestTimetoBuyandSellStockIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/BestTimetoBuyandSellStockIII.java)|
  |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/) |Hard|[StoneGameIV](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameIV.java) |
  |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [LongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/LongestIncreasingSubsequence.java)|
- 
+ |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|Medium|[NumberofLongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumberofLongestIncreasingSubsequence.java)|
 ## Backtracking
    No  |  Question |  Level |Solution   | 
    |---|---|---|---|
