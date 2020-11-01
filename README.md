@@ -16,6 +16,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |1436| [Destination City](https://leetcode.com/problems/destination-city/)| Easy| [DestinationCity](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DestinationCity.java)|
 |859| [Buddy Strings](https://leetcode.com/problems/buddy-strings/)| Easy| [BuddyString](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/BuddyString.java)|
 |316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)| Easy| [RemoveDuplicateLetters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/RemoveDuplicateLetters.java)|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|Easy|[MostCommonWord](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MostCommonWord.java)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
@@ -27,34 +28,35 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   | 1450 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|Easy | [NumberofStudentsDoingHomeworkataGivenTime](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/NumberofStudentsDoingHomeworkataGivenTime.java)|
   | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| Easy | [DecompressRunLengthEncodedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecompressRunLengthEncodedList.java)|
   | 220  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium | [ContainsDuplicateIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicateIII.java)|
-   |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| Easy |[LuckyNumbersinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LuckyNumbersinaMatrix.java)|
-   |682| [Baseball Game](https://leetcode.com/problems/baseball-game/)| Easy |[Baseball Game](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BaseballGame.java)|
+  |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| Easy |[LuckyNumbersinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LuckyNumbersinaMatrix.java)|
+  |682| [Baseball Game](https://leetcode.com/problems/baseball-game/)| Easy |[Baseball Game](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BaseballGame.java)|
   | 1572 | [ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Easy| [MatrixDiagonalSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MatrixDiagonalSum.java)|
- |389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [FindtheDifference](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDifference.java)|
- |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| Easy |[SquaresofaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SquaresofaSortedArray.java)|
+  |389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [FindtheDifference](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDifference.java)|
+  |977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| Easy |[SquaresofaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SquaresofaSortedArray.java)|
   | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy| [FindNumberswithEvenNumberofDigits](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNumberswithEvenNumberofDigits.java)|
- |1266 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| Easy | [MinimumTimeVisitingAllPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MinimumTimeVisitingAllPoints.java)|
-|202|  [Happy Number](https://leetcode.com/problems/happy-number/)| Easy | [HappyNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HappyNumber.java)|
-|1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| Easy | [SumofAllOddLengthSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SumofAllOddLengthSubarrays.java)|
-|39| [CombinationSum](https://leetcode.com/problems/combination-sum/) | Medium | [CombinationSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CombinationSum.java)|
-|1288| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)| Medium | [RemoveCoveredIntervals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RemoveCoveredIntervals.java)|
-|1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| Easy | [MaximumProductofTwoElementsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumProductofTwoElementsinanArray.java)|
-|832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
-|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[HeightChecker](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HeightChecker.java)|
-|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|[CountNegativeNumbersinaSortedMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountNegativeNumbersinaSortedMatrix.java)|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| Medium | [RotateArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateArray.java)|
-|1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| Easy| [XOROperationinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/XOROperationinanArray.java)|
-|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy| [CellwithOddValuesinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CellwithOddValuesinaMatrix.java)|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard | [FirstMissingPositive](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FirstMissingPositive.java)|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
-|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy | [ReplaceElementswithGreatestElementonRightSide](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ReplaceElementswithGreatestElementonRightSide.java)|
-|238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
-|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [SorttheMatrixDiagonally](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
-|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Medium | [KdiffPairsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KdiffPairsinanArray.java)|
-|1460| [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Easy| [MakeTwoArraysEqualbyReversingSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MakeTwoArraysEqualbyReversingSubarrays.java)|
-|228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)| Easy| [SummaryRanges](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SummaryRanges.java)|
-|228| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy| [PascalsTriangle](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/PascalsTriangle.java)|
-|849| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [MaximizeDistancetoClosestPerson](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximizeDistancetoClosestPerson.java)|
+  |1266 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)| Easy | [MinimumTimeVisitingAllPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MinimumTimeVisitingAllPoints.java)|
+  |202|  [Happy Number](https://leetcode.com/problems/happy-number/)| Easy | [HappyNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HappyNumber.java)|
+  |1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)| Easy | [SumofAllOddLengthSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SumofAllOddLengthSubarrays.java)|
+  |39| [CombinationSum](https://leetcode.com/problems/combination-sum/) | Medium | [CombinationSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CombinationSum.java)|
+  |1288| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)| Medium | [RemoveCoveredIntervals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RemoveCoveredIntervals.java)|
+  |1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| Easy | [MaximumProductofTwoElementsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumProductofTwoElementsinanArray.java)|
+  |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [FlippinganImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FlippinganImage.java)|
+  |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[HeightChecker](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/HeightChecker.java)|
+  |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Easy|[CountNegativeNumbersinaSortedMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountNegativeNumbersinaSortedMatrix.java)|
+  |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| Medium | [RotateArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateArray.java)|
+  |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| Easy| [XOROperationinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/XOROperationinanArray.java)|
+  |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)| Easy| [CellwithOddValuesinaMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CellwithOddValuesinaMatrix.java)|
+  |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard | [FirstMissingPositive](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FirstMissingPositive.java)|
+  |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium | [Searcha2DMatrix](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/Searcha2DMatrix.java)|
+  |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy | [ReplaceElementswithGreatestElementonRightSide](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ReplaceElementswithGreatestElementonRightSide.java)|
+  |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium | [ProductofArrayExceptSelf](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ProductofArrayExceptSelf.java)|
+  |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|Medium | [SorttheMatrixDiagonally](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SorttheMatrixDiagonally.java)|
+  |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|Medium | [KdiffPairsinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KdiffPairsinanArray.java)|
+  |1460| [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Easy| [MakeTwoArraysEqualbyReversingSubarrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MakeTwoArraysEqualbyReversingSubarrays.java)|
+  |228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)| Easy| [SummaryRanges](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SummaryRanges.java)|
+  |118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy| [PascalsTriangle](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/PascalsTriangle.java)|
+  |849| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [MaximizeDistancetoClosestPerson](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximizeDistancetoClosestPerson.java)|
+  |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|Medium| [BattleshipsinaBoard](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BattleshipsinaBoard.java)|
 
 ## Stack
 
@@ -96,7 +98,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |61| [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [RotateList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/RotateList.java) |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|[AddTwoNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbers.java) |
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[SortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SortList.java) |
-
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy| [ConvertBinaryNumberinaLinkedListtoInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertBinaryNumberinaLinkedListtoInteger.java)|
 
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
