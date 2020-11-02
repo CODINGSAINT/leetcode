@@ -1,8 +1,14 @@
 package string;
 
+import utils.LeetCode;
+import utils.Level;
+
 import java.util.ArrayList;
 import java.util.List;
 
+@LeetCode(
+        no=1002,title = "Find Common Characters" ,level = Level.EASY,url = "https://leetcode.com/problems/find-common-characters/"
+)
 public class FindCommonCharacters {
     public static void main(String[] args) {
         FindCommonCharacters f= new FindCommonCharacters();
