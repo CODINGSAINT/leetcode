@@ -22,7 +22,6 @@ public class FindCommonCharacters {
         for(int i=0;i<A.length;i++){
             String s=A[i];
             int []current=new int[26];
-
             for(int j=0;j<s.length();j++){
                 char c=s.charAt(j);
                 if(i==0){
@@ -33,21 +32,19 @@ public class FindCommonCharacters {
             }
             if(i>0){
                 for(int j=0;j<current.length;j++){
-                    if(prev[i]>current[i]){
-                        prev[i]=prev[i]-current[i];
-                    }else if(prev[i]!=current[i]){
-                        prev[i]=0;
-                    }
+                    prev[j]=Math.min(prev[j],current[j]);
+
                 }
             }
         }
         for(int j=0;j<prev.length;j++){
-            System.out.print(" "+prev[j]);
+            if(prev[j]>0) {
+                int n=prev[j];
+                for(int k=0;k< n;k++) {
+                    result.add(String.valueOf(  (char) (j+'a')));
+                }
+            }
         }
-        System.out.println();
-        return new ArrayList<String>();
-
-
-
+        return  result;
     }
 }
