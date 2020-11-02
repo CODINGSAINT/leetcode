@@ -3,7 +3,10 @@ package linkedlist;
 import utils.LeetCode;
 import utils.Level;
 
-@LeetCode(no=1290,title = "Convert Binary Number in a Linked List to Integer" ,url = "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",level = Level.EASY)
+@LeetCode(no=1290,
+        title = "Convert Binary Number in a Linked List to Integer" ,
+        url = "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+        level = Level.EASY)
 public class ConvertBinaryNumberinaLinkedListtoInteger {
 
     public int getDecimalValue(ListNode head) {
