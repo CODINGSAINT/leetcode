@@ -18,6 +18,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)| Easy| [RemoveDuplicateLetters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/RemoveDuplicateLetters.java)|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|Easy|[MostCommonWord](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MostCommonWord.java)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|[FindCommonCharacters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/FindCommonCharacters.java)|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|[ConsecutiveCharacters](https://leetcode.com/problems/consecutive-characters/)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
