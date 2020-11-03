@@ -100,6 +100,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|[AddTwoNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbers.java) |
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|[SortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SortList.java) |
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy| [ConvertBinaryNumberinaLinkedListtoInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertBinaryNumberinaLinkedListtoInteger.java)|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| Medium | [InsertionSortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/InsertionSortList.java)|
 
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
