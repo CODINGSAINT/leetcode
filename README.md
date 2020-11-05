@@ -183,6 +183,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Medium|[FriendCircles](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FriendCircles.java)|
 | 547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Medium|[FriendCircles](https://github.com/CODINGSAINT/leetcode/blob/master/src/graph/FriendCircles.java)|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| Medium |  [CloneGraph](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CloneGraph.java)|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| Medium | [MinimumHeightTrees](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MinimumHeightTrees.java)|
 
 
 ## Math
