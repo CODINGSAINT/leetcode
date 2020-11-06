@@ -195,7 +195,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 728 |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| Easy | [SelfDividingNumbers](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/SelfDividingNumbers.java)|
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)| Easy | [CountPrimes](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/CountPrimes.java)|
  |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Medium|[ChampagneTower](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ChampagneTower.java)|
-|1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/|Easy|[MinimumCosttoMoveChipstoTheSamePosition](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/MinimumCosttoMoveChipstoTheSamePosition.java)|
+|1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|Easy|[MinimumCosttoMoveChipstoTheSamePosition](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/MinimumCosttoMoveChipstoTheSamePosition.java)|
 ## Binary Search
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
