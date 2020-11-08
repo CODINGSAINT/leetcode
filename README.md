@@ -59,7 +59,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy| [PascalsTriangle](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/PascalsTriangle.java)|
   |849| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [MaximizeDistancetoClosestPerson](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximizeDistancetoClosestPerson.java)|
   |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|Medium| [BattleshipsinaBoard](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BattleshipsinaBoard.java)|
-
+ |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|Medium|[SubrectangleQueries](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SubrectangleQueries.java)|
+        level = Level.MEDIUM
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
