@@ -19,7 +19,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|Easy|[MostCommonWord](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MostCommonWord.java)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|[FindCommonCharacters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/FindCommonCharacters.java)|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|[ConsecutiveCharacters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ConsecutiveCharacters.java)|
-
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MaximumNestingDepthoftheParentheses.java)|
+|1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/IncreasingDecreasingString.java)|
 ## Arrays
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -60,7 +61,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |849| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [MaximizeDistancetoClosestPerson](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximizeDistancetoClosestPerson.java)|
   |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|Medium| [BattleshipsinaBoard](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BattleshipsinaBoard.java)|
  |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|Medium|[SubrectangleQueries](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SubrectangleQueries.java)|
-        level = Level.MEDIUM
+  |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | Easy| [CheckArrayFormationThroughConcatenation](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CheckArrayFormationThroughConcatenation.java)|
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
@@ -80,7 +81,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)| Medium | [AsteroidCollison](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/AsteroidCollison.java) |
   |456|[132 Pattern](https://leetcode.com/problems/132-pattern/)| Medium| [_132Pattern](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/_132Pattern.java) |
                                                                                          
-  
+  __
 ## LinkedList 
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -166,7 +167,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| Medium|[BinarySearchTreetoGreaterSumTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinarySearchTreetoGreaterSumTree.java)|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Medium| [CountGoodNodesinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CountGoodNodesinBinaryTree.java)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Hard|[RecoverBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RecoverBinarySearchTree.java)|
-
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium|[MaximumDifferenceBetweenNodeandAncestor](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDifferenceBetweenNodeandAncestor.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -239,3 +240,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 1281 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [SubtracttheProductandSumofDigitsofanInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java)|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| Easy |  [ComplementofBase10Integer](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/ComplementofBase10Integer.java)|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)| Easy| [DesignParkingSystem](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/DesignParkingSystem.java)|
+
+## Sql
+ No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|Easy|[BigCountries](https://github.com/CODINGSAINT/leetcode/blob/master/src/sql/BigCountries.sql) |
