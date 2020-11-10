@@ -213,7 +213,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1007| [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| Medium |[MinimumDominoRotationsForEqualRow](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/MinimumDominoRotationsForEqualRow.java)|
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy |[IsSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/IsSubsequence.java)|
 |948| [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)| Medium | [BagofTokens](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/BagofTokens.java)|
-
+|1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|Medium | [CarPooling](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/CarPooling.java)|
 ## Dynamic Programming
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
