@@ -1,4 +1,4 @@
-package graph;
+package greedy;
 
 import utils.LeetCode;
 import utils.Level;
