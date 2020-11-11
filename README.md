@@ -62,6 +62,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|Medium| [BattleshipsinaBoard](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/BattleshipsinaBoard.java)|
  |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|Medium|[SubrectangleQueries](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SubrectangleQueries.java)|
   |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | Easy| [CheckArrayFormationThroughConcatenation](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CheckArrayFormationThroughConcatenation.java)|
+  |1304| [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|Easy| [FindNUniqueIntegersSumuptoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNUniqueIntegersSumuptoZero.java)|
+
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
