@@ -200,6 +200,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)| Easy | [CountPrimes](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/CountPrimes.java)|
  |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Medium|[ChampagneTower](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ChampagneTower.java)|
 |1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|Easy|[MinimumCosttoMoveChipstoTheSamePosition](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/MinimumCosttoMoveChipstoTheSamePosition.java)|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/)|Medium| [ValidSquare](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ValidSquare.java)|
+
+     
 ## Binary Search
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
