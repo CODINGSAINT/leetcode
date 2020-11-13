@@ -170,6 +170,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Medium| [CountGoodNodesinBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/CountGoodNodesinBinaryTree.java)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Hard|[RecoverBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RecoverBinarySearchTree.java)|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium|[MaximumDifferenceBetweenNodeandAncestor](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDifferenceBetweenNodeandAncestor.java)|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[PopulatingNextRightPointersinEachNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/PopulatingNextRightPointersinEachNode.java)|
+
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -235,6 +237,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
    No  |  Question |  Level |Solution   | 
    |---|---|---|---|
  | 1242 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)| Medium |[IteratorforCombination](https://github.com/CODINGSAINT/leetcode/blob/master/src/backtracking/IteratorforCombination.java) |
+ | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/)| Medium |[PermutationsII](https://github.com/CODINGSAINT/leetcode/blob/master/src/backtracking/PermutationsII.java) |
 
 
   ## Misc
