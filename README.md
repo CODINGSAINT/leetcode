@@ -171,7 +171,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Hard|[RecoverBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RecoverBinarySearchTree.java)|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium|[MaximumDifferenceBetweenNodeandAncestor](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDifferenceBetweenNodeandAncestor.java)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[PopulatingNextRightPointersinEachNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/PopulatingNextRightPointersinEachNode.java)|
-
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium| [KthSmallestElementinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/KthSmallestElementinaBST.java)|
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
