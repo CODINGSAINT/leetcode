@@ -171,7 +171,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Hard|[RecoverBinarySearchTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/RecoverBinarySearchTree.java)|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium|[MaximumDifferenceBetweenNodeandAncestor](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/MaximumDifferenceBetweenNodeandAncestor.java)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[PopulatingNextRightPointersinEachNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/PopulatingNextRightPointersinEachNode.java)|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium| [KthSmallestElementinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/KthSmallestElementinaBST.java)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium| [KthSmallestElementinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/KthSmallestElementinaBST.java)|
+|1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|Medium| [FindElementsinaContaminatedBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindElementsinaContaminatedBinaryTree.java)|
+
+
 ## Graph
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -203,6 +206,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|Medium|[ChampagneTower](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ChampagneTower.java)|
 |1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|Easy|[MinimumCosttoMoveChipstoTheSamePosition](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/MinimumCosttoMoveChipstoTheSamePosition.java)|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|Medium| [ValidSquare](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/ValidSquare.java)|
+|458|[ Poor Pigs](https://leetcode.com/problems/poor-pigs)|Medium| [PoorPig](https://github.com/CODINGSAINT/leetcode/blob/master/src/math/PoorPig.java)|
 
      
 ## Binary Search
