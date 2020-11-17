@@ -64,6 +64,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | Easy| [CheckArrayFormationThroughConcatenation](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CheckArrayFormationThroughConcatenation.java)|
   |1304| [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|Easy| [FindNUniqueIntegersSumuptoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNUniqueIntegersSumuptoZero.java)|
 |1637| [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | [WidestVerticalAreaBetweenTwoPointsContainingNoPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|
+|845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)| Medium | [LongestMountaininArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LongestMountaininArray.java)|
+
+
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
