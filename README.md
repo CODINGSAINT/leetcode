@@ -65,6 +65,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |1304| [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|Easy| [FindNUniqueIntegersSumuptoZero](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindNUniqueIntegersSumuptoZero.java)|
 |1637| [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | [WidestVerticalAreaBetweenTwoPointsContainingNoPoints](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)| Medium | [LongestMountaininArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/LongestMountaininArray.java)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [MergeIntervals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MergeIntervals.java)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium| [RotateImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateImage.java)|
+|53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy| [MaximumSubarray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumSubarray.java)|
 
 
 ## Stack
