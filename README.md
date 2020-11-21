@@ -220,6 +220,11 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
 | 704 |[Binary Search](https://leetcode.com/problems/binary-search/)| Easy | [BinarySearch](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/BinarySearch.java)|
+| 153 |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Medium | [FindMinimuminRotatedSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/FindMinimuminRotatedSortedArray.java)|
+| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Medium | [SearchinRotatedSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/SearchinRotatedSortedArray.java)|
+| 81 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| Medium | [SearchinRotatedSortedArrayII](https://github.com/CODINGSAINT/leetcode/blob/master/src/binarysearch/SearchinRotatedSortedArrayII.java)|
+
+
 ## Sorting
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
