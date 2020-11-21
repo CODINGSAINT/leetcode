@@ -6,7 +6,7 @@ import utils.Level;
 import java.util.Stack;
 
 
-@LeetCode(no = 394,
+@LeetCode(no = 394, 
         title = "Decode String",
         level = Level.MEDIUM,
         url = "https://leetcode.com/problems/decode-string/")
