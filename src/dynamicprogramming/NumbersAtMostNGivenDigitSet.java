@@ -66,8 +66,7 @@ public class NumbersAtMostNGivenDigitSet {
 
 
     private int count(String[] digits,int power[],String n,int len,int index){
-        //We have reached till last index, a number can be formed such that <= N,
-        if(index==len) return 1;
+       if(index==len) return 1;
         int res=0;
         for(String val : digits){
             if(val.charAt(0)>n.charAt(index)) break;
@@ -76,6 +75,8 @@ public class NumbersAtMostNGivenDigitSet {
         }
         return res;
     }
+
+
 
     int count(int result[], Integer maxDigits[], int digits[],int max ){
         int count =0;
