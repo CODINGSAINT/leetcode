@@ -77,7 +77,14 @@ public class NumbersAtMostNGivenDigitSet {
     }
 
 
-
+    /**
+     * This method did not work
+     * @param result
+     * @param maxDigits
+     * @param digits
+     * @param max
+     * @return
+     */
     int count(int result[], Integer maxDigits[], int digits[],int max ){
         int count =0;
 
