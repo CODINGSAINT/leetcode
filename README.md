@@ -250,6 +250,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [LongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/LongestIncreasingSubsequence.java)|
  |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|Medium|[NumberofLongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumberofLongestIncreasingSubsequence.java)|
  |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|Hard|[NumbersAtMostNGivenDigitSet](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumbersAtMostNGivenDigitSet.java)|
+ |902|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[HouseRobberIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberIII.java)|
 
 ## Backtracking
    No  |  Question |  Level |Solution   | 
