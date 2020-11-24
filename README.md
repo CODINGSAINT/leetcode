@@ -251,6 +251,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|Medium|[NumberofLongestIncreasingSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumberofLongestIncreasingSubsequence.java)|
  |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|Hard|[NumbersAtMostNGivenDigitSet](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumbersAtMostNGivenDigitSet.java)|
  |902|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[HouseRobberIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberIII.java)|
+ |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|Medium|[CountSortedVowelStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/CountSortedVowelStrings.java)|
 
 ## Backtracking
    No  |  Question |  Level |Solution   | 
