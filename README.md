@@ -68,7 +68,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [MergeIntervals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MergeIntervals.java)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium| [RotateImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateImage.java)|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy| [MaximumSubarray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumSubarray.java)|
-
+|1222| [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|Medium | [QueensThatCanAttacktheKing](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/QueensThatCanAttacktheKing.java)|
 
 ## Stack
 
@@ -89,8 +89,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)| Medium | [AsteroidCollison](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/AsteroidCollison.java) |
   |456|[132 Pattern](https://leetcode.com/problems/132-pattern/)| Medium| [_132Pattern](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/_132Pattern.java) |
   |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)| Medium| [DesignaStackWithIncrementOperation](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/DesignaStackWithIncrementOperation.java) |
-  |394|[Decode String](https://leetcode.com/problems/decode-string/)| Medium | [DecodeString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/DecodeString.java) |                                                                                
-  __
+  |394|[Decode String](https://leetcode.com/problems/decode-string/)| Medium | [DecodeString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java) |                                                                                
+  | 1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)| Easy| [CrawlerLogFolder](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java)|
+  | 227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| Medium | [CrawlerLogFolder](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/BasicCalculatorII.java)|
+
 ## LinkedList 
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|

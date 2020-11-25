@@ -33,6 +33,7 @@ import utils.Level;
         level = Level.MEDIUM,
         url = "https://leetcode.com/problems/count-sorted-vowel-strings/")
 public class CountSortedVowelStrings {
+
     public int countVowelStrings(int n) {
         int dp[][] = new int[n + 1][6];
         for (int y = 1; y <= n; y++) {
