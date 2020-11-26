@@ -91,7 +91,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)| Medium| [DesignaStackWithIncrementOperation](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/DesignaStackWithIncrementOperation.java) |
   |394|[Decode String](https://leetcode.com/problems/decode-string/)| Medium | [DecodeString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java) |                                                                                
   | 1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)| Easy| [CrawlerLogFolder](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java)|
-  | 227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| Medium | [CrawlerLogFolder](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/BasicCalculatorII.java)|
+  | 227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| Medium | [BasicCalculatorII](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/BasicCalculatorII.java)|
 
 ## LinkedList 
 | No  |  Question |  Level |Solution   | 
@@ -182,7 +182,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[PopulatingNextRightPointersinEachNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/util/PopulatingNextRightPointersinEachNode.java)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium| [KthSmallestElementinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/KthSmallestElementinaBST.java)|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|Medium| [FindElementsinaContaminatedBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindElementsinaContaminatedBinaryTree.java)|
-
+| 1110| [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|Medium| [DeleteNodesAndReturnForest](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeleteNodesAndReturnForest.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
