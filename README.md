@@ -254,6 +254,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|Hard|[NumbersAtMostNGivenDigitSet](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/NumbersAtMostNGivenDigitSet.java)|
  |902|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[HouseRobberIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberIII.java)|
  |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|Medium|[CountSortedVowelStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/CountSortedVowelStrings.java)|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|[PartitionEqualSubsetSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/PartitionEqualSubsetSum.java)|
+
 
 ## Backtracking
    No  |  Question |  Level |Solution   | 
@@ -261,6 +263,11 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  | 1242 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)| Medium |[IteratorforCombination](https://github.com/CODINGSAINT/leetcode/blob/master/src/backtracking/IteratorforCombination.java) |
  | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/)| Medium |[PermutationsII](https://github.com/CODINGSAINT/leetcode/blob/master/src/backtracking/PermutationsII.java) |
 
+ ## Sliding Windows
+  No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+|395| [Longest Substring with At Least K Repeating Character](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Medium |[LongestSubstringwithAtLeastKRepeatingCharacter](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestSubstringwithAtLeastKRepeatingCharacter.java) |
+|
 
   ## Misc
   No  |  Question |  Level |Solution   | 
