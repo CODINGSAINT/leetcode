@@ -69,7 +69,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium| [RotateImage](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RotateImage.java)|
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy| [MaximumSubarray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumSubarray.java)|
 |1222| [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|Medium | [QueensThatCanAttacktheKing](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/QueensThatCanAttacktheKing.java)|
-
+|75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [SortColors](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SortColors.java)|
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
