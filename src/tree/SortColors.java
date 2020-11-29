@@ -1,5 +1,12 @@
 package tree;
 
+import utils.LeetCode;
+import utils.Level;
+
+@LeetCode(no=75,
+        url = "https://leetcode.com/problems/sort-colors/" ,
+        title = "Sort Colors",
+        level = Level.MEDIUM)
 class Solution {
     public void sortColors(int[] nums) {
         int redIndex=0;
