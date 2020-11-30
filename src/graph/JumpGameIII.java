@@ -3,6 +3,8 @@ package graph;
 import utils.LeetCode;
 import utils.Level;
 
+import java.util.HashSet;
+import java.util.Set;
 import java.util.Stack;
 
 // 1306.
@@ -74,40 +76,82 @@ public class JumpGameIII {
      * @return
      */
     public boolean canReachW(int[] arr, int start) {
-        int n = arr.length;
-        if (start > n)
+        int n=arr.length;
+        if(start>n)
             return false;
-        boolean[] seen = new boolean[arr.length];
-        return verify(arr, seen, start, n);
+
+
+        boolean []seen=new boolean[arr.length];
+        return verify(arr,seen, start,n );
 
     }
+    boolean verify(int[] arr, boolean []seen, int start,int n){
 
-    boolean verify(int[] arr, boolean[] seen, int start, int n) {
-        if (seen[start] == false) {
-            seen[start] = true;
-            if (arr[start] == 0) return true;
-            if (start == 0) {
-                if (start + arr[start] < n)
-                    return verify(arr, seen, start + arr[start], n);
+        if(seen[start]==false){
+            seen[start]=true;
+            if(arr[start]==0) return true;
+
+            if(start==0){
+                // System.out.println("At Start "+0);
+                if(start+arr[start] < n)
+                    return verify(arr, seen, start+arr[start], n);
                 else
                     return false;
-            } else if (start == n - 1) {
-                if (start - arr[start] >= 0)
-                    return verify(arr, seen, start - arr[start], n);
+            }
+            else if(start==n-1){
+                // System.out.println("At last "+start);
+                if(start-arr[start] >=0 )
+                    return verify(arr, seen, start-arr[start], n);
                 else
                     return false;
-            } else {
-                if ((start - arr[start] > 0) && (start + arr[start] < n)) {
-                    return verify(arr, seen, start - arr[start], n) ||
-                            verify(arr, seen, start + arr[start], n);
+            }else{
+                if((start-arr[start] >0) && (start+arr[start] < n) ){
 
-                } else if (start - arr[start] >= 0) {
-                    return verify(arr, seen, start - arr[start], n);
-                } else if (start + arr[start] < n) {
+                    //System.out.println("In Between "+start);
+                    return verify(arr, seen, start-arr[start], n) ||
+                            verify(arr, seen, start+arr[start], n);
 
-                    return verify(arr, seen, start + arr[start], n);
+                }else if(start-arr[start] >=0 ){
+                    return verify(arr, seen, start-arr[start], n);
+                }else if(start+arr[start] < n){
+
+                    return verify(arr, seen, start+arr[start], n);
 
                 }
+
+            }
+
+
+
+
+
+        }
+        return false;
+    }
+    public boolean canReachS(int[] arr, int start) {
+        if(arr.length ==0) return false;
+        boolean []visited= new boolean[arr.length];
+        Stack<Integer> st= new Stack();
+        st.add(start);
+        while(!st.isEmpty()){
+            int i= st.pop();
+            //visit i
+            if (arr[i]==0){
+                return true;
+            }
+            visited[i]=true;
+            //Check if i + arr[i] and i - arr[i] can be visited or not
+            //System.out.println(( i+arr[i])+"visited[arr [( i+arr[i] )]]"+visited [( i+arr[i] )]);
+
+            //System.out.println(( i-arr[i])+"visited[arr [( i+arr[i] )]]"+visited [( i-arr[i] )]);
+            if((i+arr[i])<arr.length && ! visited [i+arr[i] ]){
+                //  System.out.println("adding + "+ (i+arr[i])+ "+ arr[i+arr[i]]+ "+ + arr[i+arr[i]]);
+                st.add(i+arr[i]);
+            }
+            if((i-arr[i])>-1 && !visited[ i-arr[i]] ){
+                //  System.out.println("adding - "+ (i-arr[i])+ "+ arr[i+arr[i]]+ "+ + arr[i-arr[i]]);
+
+                st.add(i-arr[i]);
             }
         }
         return false;
