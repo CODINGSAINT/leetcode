@@ -21,6 +21,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|[ConsecutiveCharacters](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ConsecutiveCharacters.java)|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MaximumNestingDepthoftheParentheses.java)|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/IncreasingDecreasingString.java)|
+|1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy|[CheckIfTwoStringArraysareEquivalent](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/CheckIfTwoStringArraysareEquivalent.java)|
+
 ## Arrays
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -70,6 +72,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy| [MaximumSubarray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumSubarray.java)|
 |1222| [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|Medium | [QueensThatCanAttacktheKing](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/QueensThatCanAttacktheKing.java)|
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [SortColors](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SortColors.java)|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Medium | [MoveZeroes](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MoveZeroes.java)|
+
 ## Stack
 
 | No  |  Question |  Level |Solution   | 
@@ -183,6 +187,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium| [KthSmallestElementinaBST](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/KthSmallestElementinaBST.java)|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|Medium| [FindElementsinaContaminatedBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindElementsinaContaminatedBinaryTree.java)|
 | 1110| [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|Medium| [DeleteNodesAndReturnForest](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeleteNodesAndReturnForest.java)|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Medium | [PathSumII](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSumII.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
