@@ -1,8 +1,12 @@
 package tree;
 
+import utils.LeetCode;
+import utils.Level;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
+@LeetCode(no=104, url = "https://leetcode.com/problems/maximum-depth-of-binary-tree/", level = Level.EASY, title = "Maximum Depth of Binary Tree")
 public class MaximumDepthofBinaryTree {
     public static void main(String[] args) {
 
