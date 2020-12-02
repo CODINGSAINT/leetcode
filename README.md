@@ -120,7 +120,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy| [ConvertBinaryNumberinaLinkedListtoInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/ConvertBinaryNumberinaLinkedListtoInteger.java)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| Medium | [InsertionSortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/InsertionSortList.java)|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|Medium|[AddTwoNumbersII](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbersII.java)|
-
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|MEDIUM| [LinkedListRandomNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListRandomNode.java)|
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -273,6 +273,14 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |---|---|---|---|
 |395| [Longest Substring with At Least K Repeating Character](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Medium |[LongestSubstringwithAtLeastKRepeatingCharacter](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestSubstringwithAtLeastKRepeatingCharacter.java) |
 |
+
+
+
+  ## Multithreading
+  No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+  |1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|Easy|[PrintinOrder](https://github.com/CODINGSAINT/leetcode/blob/master/src/multithreading/PrintinOrder.java) |
+  
 
   ## Misc
   No  |  Question |  Level |Solution   | 
