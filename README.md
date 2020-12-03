@@ -280,7 +280,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
   |1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|Easy|[PrintinOrder](https://github.com/CODINGSAINT/leetcode/blob/master/src/multithreading/PrintinOrder.java) |
-  
+  |1115| [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|Medium | [PrintFooBarAlternately](https://leetcode.com/problems/print-foobar-alternately/)|
 
   ## Misc
   No  |  Question |  Level |Solution   | 
