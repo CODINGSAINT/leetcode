@@ -260,7 +260,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |902|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|[HouseRobberIII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/HouseRobberIII.java)|
  |1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|Medium|[CountSortedVowelStrings](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/CountSortedVowelStrings.java)|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|[PartitionEqualSubsetSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/PartitionEqualSubsetSum.java)|
-
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[UniquePaths](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePaths.java)|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Medium|[UniquePathsII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePathsII.java)|
 
 ## Backtracking
    No  |  Question |  Level |Solution   | 
