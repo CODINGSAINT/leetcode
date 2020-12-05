@@ -73,6 +73,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1222| [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|Medium | [QueensThatCanAttacktheKing](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/QueensThatCanAttacktheKing.java)|
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [SortColors](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SortColors.java)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Medium | [MoveZeroes](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MoveZeroes.java)|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|Medium| [ThreeSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ThreeSum.java)|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy| [ContainsDuplicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicate.java)|
+
 
 ## Stack
 
