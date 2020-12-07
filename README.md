@@ -191,6 +191,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|Medium| [FindElementsinaContaminatedBinaryTree](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/FindElementsinaContaminatedBinaryTree.java)|
 | 1110| [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|Medium| [DeleteNodesAndReturnForest](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/DeleteNodesAndReturnForest.java)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Medium | [PathSumII](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/PathSumII.java)|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)| Medium |[BinaryTreePruning](https://github.com/CODINGSAINT/leetcode/blob/master/src/tree/BinaryTreePruning.java)|
 
 ## Graph
  No  |  Question |  Level |Solution   | 
