@@ -1,8 +1,12 @@
 package arrays;
 
+import utils.LeetCode;
+import utils.Level;
+
 import java.util.ArrayList;
 import java.util.List;
-
+@LeetCode(no=442, title = "Find All Duplicates in an Array",level = Level.MEDIUM,  url = "https://leetcode.com/problems/find-all-duplicates-in-an-array/"
+)
 public class FindAllDuplicatesinanArray {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> vals= new ArrayList<>();
