@@ -74,7 +74,12 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [SortColors](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/SortColors.java)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Medium | [MoveZeroes](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MoveZeroes.java)|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|Medium| [ThreeSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ThreeSum.java)|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy| [ContainsDuplicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicate.java)|
+ |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy| [ContainsDuplicate](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/ContainsDuplicate.java)|
+ |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard| [MedianofTwoSortedArrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MedianofTwoSortedArrays.java)|
+ |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium| [FindtheDuplicateNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDuplicateNumber.java)|
+ |448|[Find the Duplicate Number](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy| [FindAllNumbersDisappearedinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllNumbersDisappearedinanArray.java)|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium| [FindAllDuplicatesinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllDuplicatesinanArray.java)|
+
 
 
 ## Stack
@@ -266,7 +271,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|[PartitionEqualSubsetSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/PartitionEqualSubsetSum.java)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[UniquePaths](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePaths.java)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Medium|[UniquePathsII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePathsII.java)|
-
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|
 ## Backtracking
    No  |  Question |  Level |Solution   | 
    |---|---|---|---|
