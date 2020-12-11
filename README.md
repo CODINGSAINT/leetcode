@@ -22,6 +22,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/MaximumNestingDepthoftheParentheses.java)|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/IncreasingDecreasingString.java)|
 |1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy|[CheckIfTwoStringArraysareEquivalent](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/CheckIfTwoStringArraysareEquivalent.java)|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|Medium | [ExpressiveWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ExpressiveWords.java)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
@@ -79,7 +80,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium| [FindtheDuplicateNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDuplicateNumber.java)|
  |448|[Find the Duplicate Number](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy| [FindAllNumbersDisappearedinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllNumbersDisappearedinanArray.java)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium| [FindAllDuplicatesinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllDuplicatesinanArray.java)|
-
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy| [MajorityElement](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MajorityElement.java)|
 
 
 ## Stack
