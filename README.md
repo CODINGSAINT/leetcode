@@ -254,6 +254,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy |[IsSubsequence](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/IsSubsequence.java)|
 |948| [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)| Medium | [BagofTokens](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/BagofTokens.java)|
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|Medium | [CarPooling](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/CarPooling.java)|
+|1685| [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|Medium| [SumofAbsoluteDifferencesinaSortedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/greedy/SumofAbsoluteDifferencesinaSortedArray.java)|
+
 ## Dynamic Programming
  No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -272,7 +274,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|[PartitionEqualSubsetSum](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/PartitionEqualSubsetSum.java)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|[UniquePaths](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePaths.java)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Medium|[UniquePathsII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/UniquePathsII.java)|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[ClimbingStairs](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/ClimbingStairs.java)|
+|1690| [Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|Medium| [Stone Game VII](https://github.com/CODINGSAINT/leetcode/blob/master/src/dynamicprogramming/StoneGameVII.java)|
+
+
 ## Backtracking
    No  |  Question |  Level |Solution   | 
    |---|---|---|---|

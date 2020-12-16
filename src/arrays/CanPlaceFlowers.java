@@ -1,6 +1,11 @@
 package arrays;
 
 public class CanPlaceFlowers {
+    public static void main(String[] args) {
+        byte b=1;
+        b+=1;
+        System.out.println(b);
+    }
     public boolean canPlaceFlowers(int[] f, int n) {
         for(int i=0; i<f.length;){
             if(f[i]==1){
