@@ -23,6 +23,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|Easy| [MaximumNestingDepthoftheParentheses](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/IncreasingDecreasingString.java)|
 |1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy|[CheckIfTwoStringArraysareEquivalent](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/CheckIfTwoStringArraysareEquivalent.java)|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|Medium | [ExpressiveWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ExpressiveWords.java)|
+/1694/[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[ReformatPhoneNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReformatPhoneNumber.java)|
 
 ## Arrays
  | No  |  Question |  Level |Solution   | 
