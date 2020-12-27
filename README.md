@@ -24,7 +24,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1662| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy|[CheckIfTwoStringArraysareEquivalent](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/CheckIfTwoStringArraysareEquivalent.java)|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|Medium | [ExpressiveWords](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ExpressiveWords.java)|
 /1694/[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[ReformatPhoneNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/ReformatPhoneNumber.java)|
-
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|Easy|[DetermineifStringHalvesAreAlike](https://github.com/CODINGSAINT/leetcode/blob/master/src/string/DetermineifStringHalvesAreAlike.java)|
 ## Arrays
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -307,6 +307,11 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 | 1281 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [SubtracttheProductandSumofDigitsofanInteger](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/SubtracttheProductandSumofDigitsofanInteger.java)|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)| Easy |  [ComplementofBase10Integer](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/ComplementofBase10Integer.java)|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)| Easy| [DesignParkingSystem](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/DesignParkingSystem.java)|
+
+#Heap
+No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+|1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) |Medium |[MaximumNumberofEatenApples](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/MaximumNumberofEatenApples.java)|
 
 ## Sql
  No  |  Question |  Level |Solution   | 
