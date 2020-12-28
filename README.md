@@ -312,6 +312,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) |Medium |[MaximumNumberofEatenApples](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/MaximumNumberofEatenApples.java)|
+|73|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|[KClosestPointstoOrigin]( https://leetcode.com/problems/k-closest-points-to-origin/)|
 
 ## Sql
  No  |  Question |  Level |Solution   | 
