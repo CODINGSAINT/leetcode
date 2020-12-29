@@ -106,6 +106,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   |394|[Decode String](https://leetcode.com/problems/decode-string/)| Medium | [DecodeString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java) |                                                                                
   | 1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)| Easy| [CrawlerLogFolder](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/CrawlerLogFolder.java)|
   | 227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| Medium | [BasicCalculatorII](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/BasicCalculatorII.java)|
+|1541|[ Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)| Medium | [MinimumInsertionstoBalanceaParenthesesString](https://github.com/CODINGSAINT/leetcode/blob/master/src/stack/MinimumInsertionstoBalanceaParenthesesString.java)|
 
 ## LinkedList 
 | No  |  Question |  Level |Solution   | 
@@ -289,7 +290,11 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 |395| [Longest Substring with At Least K Repeating Character](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Medium |[LongestSubstringwithAtLeastKRepeatingCharacter](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestSubstringwithAtLeastKRepeatingCharacter.java) |
-|
+
+## Breadth First Search
+No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+|1345| [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|Hard |[JumpGameIV](https://github.com/CODINGSAINT/leetcode/blob/master/src/bfs/JumpGameIV.java) |
 
 
 
@@ -312,8 +317,9 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) |Medium |[MaximumNumberofEatenApples](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/MaximumNumberofEatenApples.java)|
-|73|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|[KClosestPointstoOrigin]( https://leetcode.com/problems/k-closest-points-to-origin/)|
-
+|73|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|[KClosestPointstoOrigin](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/KClosestPointstoOrigin.java)|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy |[LastStoneWeight](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/LastStoneWeight.java)|
+|703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|Easy |[KthLargestElementinaStream](https://github.com/CODINGSAINT/leetcode/blob/master/src/misc/KthLargestElementinaStream.java)|
 ## Sql
  No  |  Question |  Level |Solution   | 
   |---|---|---|---|
