@@ -290,7 +290,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
   No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 |395| [Longest Substring with At Least K Repeating Character](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Medium |[LongestSubstringwithAtLeastKRepeatingCharacter](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestSubstringwithAtLeastKRepeatingCharacter.java) |
-
+|1052|[Grumpy Bookstore Owner ](https://leetcode.com/problems/grumpy-bookstore-owner/)|Medium| [GrumpyBookstoreOwner](https://leetcode.com/problems/GrumpyBookstoreOwner.java)|
 ## Breadth First Search
 No  |  Question |  Level |Solution   | 
   |---|---|---|---|
