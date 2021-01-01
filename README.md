@@ -294,6 +294,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium| [LongestSubstringWithoutRepeatingCharacters](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestSubstringWithoutRepeatingCharacters.java)|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|Medium| [MaximumNumberofVowelsinaSubstringofGivenLength](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/MaximumNumberofVowelsinaSubstringofGivenLength.java)|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|Medium| [FruitIntoBaskets](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/FruitIntoBaskets.java)|
+|424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| Medium | [LongestRepeatingCharacterReplacement](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestRepeatingCharacterReplacement.java)|
 
 ## Breadth First Search
 No  |  Question |  Level |Solution   | 
