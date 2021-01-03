@@ -28,6 +28,7 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 ## Arrays
  | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
+
   | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy| [RunningSumof1dArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/RunningSumof1dArray.java)|
   | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy |[KidsWithTheGreatestNumberofCandies](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/KidsWithTheGreatestNumberofCandies.java)|
   | 1309 |[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|Easy|[DecryptStringfromAlphabettoIntegerMapping](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/DecryptStringfromAlphabettoIntegerMapping.java)|
@@ -80,8 +81,10 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
  |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard| [MedianofTwoSortedArrays](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MedianofTwoSortedArrays.java)|
  |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium| [FindtheDuplicateNumber](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindtheDuplicateNumber.java)|
  |448|[Find the Duplicate Number](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy| [FindAllNumbersDisappearedinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllNumbersDisappearedinanArray.java)|
-|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium| [FindAllDuplicatesinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllDuplicatesinanArray.java)|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium| [FindAllDuplicatesinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllDuplicatesinanArray.java)
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy| [MajorityElement](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MajorityElement.java)|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|Easy| [MaximumUnitsonaTruck](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumUnitsonaTruck.java)|
+|1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|Medium| [CountGoodMeals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountGoodMeals.java)|
 
 
 ## Stack
