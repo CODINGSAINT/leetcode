@@ -14,49 +14,37 @@ public class PermutationinString {
     }
 
     public boolean checkInclusion(String s1, String s2) {
-        return findPermutation(s2, s1);
-    }
-
-
-    public boolean findPermutation(String str, String pattern) {
-        HashMap<Character, Integer> patternMap = new HashMap<>();
-        for (int i = 0; i < pattern.length(); i++) {
-            char c = pattern.charAt(i);
-            patternMap.put(c, patternMap.getOrDefault(c, 0) + 1);
-
-
-        }
-        int matched = 0;
-        int start = 0;
-        int end = 0;
-        for (char current : str.toCharArray()) {
-
-
-            if (patternMap.containsKey(current)) {
-                patternMap.put(current, patternMap.get(current) - 1);
-                if (patternMap.get(current) == 0) matched++;
-                //matched++;
+        {
+            HashMap<Character, Integer> freq= new HashMap<>();
+            for(int i=0;i<s1.length();i++){
+                char current= s1.charAt(i);
+                freq.put(current , freq.getOrDefault(current,0)+1 );
             }
 
-
-            if (matched == patternMap.size()) return true;
-            if (end + 1 >= pattern.length()) {
-                char startChar = str.charAt(start);
-                if (patternMap.containsKey(startChar)) {
-                    if (patternMap.get(startChar) == 0) {
-                        matched--;
-                    }
-                    patternMap.put(startChar, patternMap.get(startChar) + 1);
-
+            int st=0;
+            int end=0;
+            int matched=0;
+            for(char current:s2.toCharArray()){
+                //char current= s2.charAt(end);
+                if(freq.containsKey(current)){
+                    freq.put(current, freq.get(current)-1);
+                    if(freq.get(current)==0) matched++;
                 }
-                start++;
+                if(matched==freq.size()) return true;
+
+                if(end+1>=s1.length()){
+                    char char_at_start= s2.charAt(st);
+                    if(freq.containsKey(char_at_start)){
+                        if(freq.get(char_at_start)==0) matched--;
+                        freq.put(char_at_start, freq.get(char_at_start)+1);
+
+                    }
+                    st++;
+                }
+                end++;
             }
-            end++;
-
+            return false;
         }
-
-
-        return false;
     }
 
 
