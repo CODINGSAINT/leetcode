@@ -15,25 +15,25 @@ public class FruitIntoBaskets {
         System.out.println(f.totalFruit(new int[]{3,3,3,1,2,1,1,2,3,3,4}));
 
     }
-    public int totalFruit(int[] arr) {
-        HashMap<Integer,Integer> map= new HashMap<>();
-        int i=0;
-        int j=0;
-        int len= arr.length;
-        int max=Integer.MIN_VALUE;
-        while(i<len){
-            Integer c= arr[i];
-            map.compute(c, (k,v) -> v==null?1:v+1);
-            while(map.size()>2){
-                int val= map.get(arr[j]);
-                map.put(arr[j], --val);
-                if(val<=0)
-                    map.remove((arr[j]));
-                j++;
+    public int totalFruit(int[] tree) {
+            int st=0;
+            int max=Integer.MIN_VALUE;
+            HashMap<Integer,Integer>freq= new HashMap<>();
+            int sum=0;
+            for (int end = 0; end < tree.length ; end++) {
+                int fruitType= tree[end];
+                freq.put(fruitType, freq.getOrDefault(fruitType, 0)+1);
+                while(freq.size()>2){
+                    int fruitAtSt= tree[st++];
+                    freq.put(fruitAtSt, freq.get(fruitAtSt)-1);
+                    if(freq.get(fruitAtSt)==0)
+                        freq.remove(fruitAtSt);
+
+                }
+                max= Integer.max(end-st+1, max);
             }
-            max= Integer.max(max, i+1-j);
-            i++;
-        }
-        return max;
+            return max;
+
+
     }
 }

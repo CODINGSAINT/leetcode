@@ -298,6 +298,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|Medium| [MaximumNumberofVowelsinaSubstringofGivenLength](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/MaximumNumberofVowelsinaSubstringofGivenLength.java)|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|Medium| [FruitIntoBaskets](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/FruitIntoBaskets.java)|
 |424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| Medium | [LongestRepeatingCharacterReplacement](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/LongestRepeatingCharacterReplacement.java)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard| [MinimumWindowSubstring](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/MinimumWindowSubstring.java)|
+|438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Medium | [FindAllAnagramsinaString](https://github.com/CODINGSAINT/leetcode/blob/master/src/slidingwindows/FindAllAnagramsinaString.java)|
 
 ## Breadth First Search
 No  |  Question |  Level |Solution   | 

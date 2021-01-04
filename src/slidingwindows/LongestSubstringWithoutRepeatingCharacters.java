@@ -16,18 +16,20 @@ public class LongestSubstringWithoutRepeatingCharacters {
 
     }
     public int lengthOfLongestSubstring(String str) {
-        HashMap<Character, Integer> map= new HashMap<>();
-        int n= str.length();
-        int max=0;
-        int j=0;
-        for (int i = 0; i <n ; i++) {
-            char c=str.charAt(i);
-            if(map.containsKey(c)){
-                j= Math.max(j, map.get(c)+1);
+        int max= 0;
+        HashMap<Character,Integer>freq= new HashMap<>();
+        int st=0;
+        for (int end = 0; end < str.length(); end++) {
+            char current= str.charAt(end);
+            if(freq.containsKey(current)) {
+                st= Integer.max(st, freq.get(current)+1);
             }
-            map.put(c,i);
-            max=Integer.max(max,i+1-j);
+            freq.put(current, end);
+
+            max=Math.max(max, end-st+1);
         }
         return max;
+
+
     }
 }
