@@ -135,6 +135,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| Medium | [InsertionSortList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/InsertionSortList.java)|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|Medium|[AddTwoNumbersII](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/AddTwoNumbersII.java)|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|MEDIUM| [LinkedListRandomNode](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/LinkedListRandomNode.java)|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|Medium|[SwappingNodesinaLinkedList](https://github.com/CODINGSAINT/leetcode/blob/master/src/linkedlist/SwappingNodesinaLinkedList.java)|
+
 ## Hashtable
 | No  |  Question |  Level |Solution   | 
  |---|---|---|---|
@@ -334,3 +336,10 @@ No  |  Question |  Level |Solution   |
  No  |  Question |  Level |Solution   | 
   |---|---|---|---|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|Easy|[BigCountries](https://github.com/CODINGSAINT/leetcode/blob/master/src/sql/BigCountries.sql) |
+
+
+## Bitwise
+No  |  Question |  Level |Solution   | 
+  |---|---|---|---|
+|1720[Decode XORed Array ](https://leetcode.com/problems/decode-xored-array/)|Easy|[DecodeXORedArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/bitwise/DecodeXORedArray.java))|
+
