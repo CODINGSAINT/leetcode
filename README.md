@@ -84,7 +84,8 @@ This is a personal journey to leetcode of [Kumar Pallav](https://twitter.com/kum
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium| [FindAllDuplicatesinanArray](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/FindAllDuplicatesinanArray.java)
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy| [MajorityElement](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MajorityElement.java)|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|Easy| [MaximumUnitsonaTruck](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/MaximumUnitsonaTruck.java)|
-|1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|Medium| [CountGoodMeals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountGoodMeals.java)|
+  |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|Medium| [CountGoodMeals](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CountGoodMeals.java)|
+  |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|Medium| [CircularArrayLoop](https://github.com/CODINGSAINT/leetcode/blob/master/src/arrays/CircularArrayLoop.java)|
 
 
 ## Stack
