@@ -1,5 +1,13 @@
 package arrays;
 //https://leetcode.com/problems/circular-array-loop/
+
+import utils.LeetCode;
+import utils.Level;
+
+@LeetCode(no =474 ,
+        level = Level.MEDIUM ,
+        title = "Circular Array Loop",
+        url="https://leetcode.com/problems/circular-array-loop/")
 public class CircularArrayLoop {
     public boolean circularArrayLoop(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
