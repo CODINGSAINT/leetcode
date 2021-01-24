@@ -1,37 +1,8 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+package string;
 
-public class Solution {
-    public static void main(String[] args) {
-        // int encoded
-        //  System.out.println(Math.abs(Math.abs((6^4))));
+public class ChangeMinimumCharacterstoSatisfyOneofThreeConditions {
+    public int minCharacters(String a, String b) {
 
-        /*System.out.println(Math.abs(2-(Math.abs(~(1^2)))));
-        System.out.println(Math.abs(3-(Math.abs(~(2^3)))));*/
-        // System.out.println(~(2^3));
-        //decode(new int[]{1,2,3},1);
-        //decode(new int[]{6,2,7,3},4);
-
-        Solution s = new Solution();
-        //  System.out.println(s.tupleSameProduct(new int[]{2,3,4,6}));
-
-
-        //System.out.println(s.largestSubmatrix(new int[][]{{0, 0, 1}, {1, 1, 1}, {1, 0, 1}}));
-
-       // System.out.println( s.minCharacters("aba","caa"));
-     //  System.out.println(s.minCharacters("dabadd","cda"));
-
-        /*     System.out.println(s.minCharacters("aba","caa"));
-*/
-      System.out.println(s.minCharacters("dabadd","cda"));
-
-
-
-
-    }
-    public  int minCharacters(String a, String b) {
         return Integer.min(transformAllChar(a,b) ,
                 Integer.min(
                         minChanges(a,b)
@@ -58,7 +29,7 @@ public class Solution {
             }
             minChanges=Integer.min(minChanges,count);
         }
-        System.out.println("minChanges ="+minChanges);
+        //System.out.println("minChanges ="+minChanges);
 
         return minChanges;
     }
@@ -83,7 +54,7 @@ public class Solution {
             }
             minChanges=Integer.min(minChanges,count);
         }
-        System.out.println("Transfomation ="+minChanges);
+        // System.out.println("Transfomation ="+minChanges);
         return minChanges;
     }
 }
