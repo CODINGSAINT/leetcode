@@ -1,45 +1,26 @@
 package stack;
-
-import java.util.Stack;
-
+import java.util.*;
 public class SimplifyPath {
-    public static void main(String[] args) {
-        SimplifyPath s= new SimplifyPath();
-      /*  System.out.println(s.simplifyPath("/home/"));
-        System.out.println(s.simplifyPath("/../"));
-        System.out.println(s.simplifyPath("/a/./b/../../c/"));
-*/
-        System.out.println(s.simplifyPath("/a/./b/../../c/"));
-
-    }
-
-
     public String simplifyPath(String path) {
-        Stack<String> st= new Stack<>();
-        StringBuffer sb= new StringBuffer();
-        String paths[]=path.split("/");
-        for(int i=0;i<paths.length;i++){
-            String current=paths[i];
-            if(current.equals(""))
+        Stack<String> stack = new Stack<String>();
+        for (String s : path.split("/")){
+            if (s.equals("..")){
+                if(!stack.empty()){
+                    stack.pop();
+                }
+            } else if (s.equals(".") || s.equals("")){
                 continue;
-            if( !current.equals(".") && !current.equals("..")){
-                st.push(current);
-                continue;
+            } else {
+                stack.push(s);
             }
-            if(current.equals("..") && !st.isEmpty()){
-                st.pop();
-            }
-
-
-
         }
-        if (st.empty()){
+        if (stack.empty()){
             return "/";
         }
-        String result="";
-        while(!st.empty()){
-            result = "/" + st.pop() + result;
+        String spath = "";
+        while(!stack.empty()){
+            spath = "/" + stack.pop() + spath;
         }
-        return result;
+        return spath;
     }
-    }
+}

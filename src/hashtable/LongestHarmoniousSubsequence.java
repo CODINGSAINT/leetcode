@@ -1,7 +1,8 @@
 package hashtable;
 
 import java.util.HashMap;
-
+//Longest Harmonious Subsequence
+//https://leetcode.com/problems/longest-harmonious-subsequence/
 public class LongestHarmoniousSubsequence {
     public int findLHS(int[] nums) {
     HashMap<Integer, Integer> map = new HashMap<>();
