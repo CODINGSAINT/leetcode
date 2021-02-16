@@ -13,26 +13,33 @@ public class SimplifyPath {
 
     }
 
-        public String simplifyPath(String path) {
-            Stack<String> st = new Stack<String>();
-            for (String str : path.split("/")){
-                if (str.equals("..")){
-                    if(!st.empty()){
-                        st.pop();
-                    }
-                } else if (str.equals(".") || str.equals("")){
-                    continue;
-                } else {
-                    st.push(str);
-                }
+
+    public String simplifyPath(String path) {
+        Stack<String> st= new Stack<>();
+        StringBuffer sb= new StringBuffer();
+        String paths[]=path.split("/");
+        for(int i=0;i<paths.length;i++){
+            String current=paths[i];
+            if(current.equals(""))
+                continue;
+            if( !current.equals(".") && !current.equals("..")){
+                st.push(current);
+                continue;
             }
-            if (st.empty()){
-                return "/";
+            if(current.equals("..") && !st.isEmpty()){
+                st.pop();
             }
-            String spath = "";
-            while(!st.empty()){
-                spath = "/" + st.pop() + spath;
-            }
-            return spath;
+
+
+
         }
+        if (st.empty()){
+            return "/";
+        }
+        String result="";
+        while(!st.empty()){
+            result = "/" + st.pop() + result;
+        }
+        return result;
+    }
     }
