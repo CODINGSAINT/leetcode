@@ -6,32 +6,75 @@ import java.util.Set;
 public class Solution {
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.minimumSize(new int[]{2, 4, 8, 2}, 4));
+     /*   System.out.println(s.mergeAlternately("abcd","pq"));
+        System.out.println(s.mergeAlternately("ab","pqrs"));
+        System.out.println(s.mergeAlternately("abc","pqr"));
+*/
+        System.out.println(s.minOperations("001011"));
+     //System.out.println(s.maximumScore(new int[]{-5,-3,-3,-2,7,1} , new int[]{-10,-5,3,4,6}));
+     // System.out.println(s.maximumScore(new int[]{-5,-3} , new int[]{-10}));
+
+
+
+    }
+
+    public int[] minOperations(String b) {
+        char boxes[]=b.toCharArray();
+        int n=boxes.length;
+        int forward[]= new int[n];
+        int backward[]=new int[n];
+        int count[]= new int[n];
+        //Let us calculate forward
+        int currentSteps=0;
+         currentSteps=boxes[0]=='0'?0:1;
+        for (int i = 1; i < n; i++) {
+            forward[i]=forward[i-1]+currentSteps;
+            currentSteps+=boxes[i]-'0';
+        }
+        currentSteps=boxes[n-1]=='0'?0:1;
+        for (int i = n-2; i >=0; i--) {
+            backward[i]=backward[i+1]+currentSteps;
+            currentSteps+=boxes[i]-'0';
+        }
+        for (int i = 0; i < n; i++) {
+            count[i]=forward[i]+backward[i];
+        }
+
+        return count;
     }
 
 
-    public int minimumSize(int[] nums, int maxOperations) {
-        int high = Integer.MAX_VALUE;
-        int ans=0;
-        int low = 0;
-        while (low <= high) {
-            int mid = low+(high - low) / 2;
-            if (validate(nums, maxOperations, mid)) {
-                ans=mid;
-                high=mid-1;
-            }else{
-                low=mid+1;
+    public int maximumScore(int[] nums, int[] multipliers) {
+        int max=0;
+        int n=nums.length;
+        int m=multipliers.length;
+        int dp[]=new int[m];
+        Arrays.fill(dp, Integer.MIN_VALUE);
+        max=calculateMax(nums, multipliers,dp,0,m-1,0);
+        for (int i = 0; i < dp.length; i++) {
+            System.out.print(dp[i]+" ");
+        }
+        return max;
+
+    }
+    int calculateMax(int []nums, int multipliers[],int dp[], int start, int end ,int current){
+
+    }
+    public String mergeAlternately(String word1, String word2) {
+        int len =Integer.max(word1.length() , word2.length());
+        StringBuffer sb= new StringBuffer();
+        for (int i = 0; i < len; i++) {
+            if(i>word1.length()-1){
+                sb.append(word2.substring(i));
+                break;
+            }if(i>word2.length()-1){
+                sb.append(word1.substring(i));
+                break;
             }
-        }
-        return ans;
-    }
+            sb.append(word1.charAt(i));
+            sb.append(word2.charAt(i));
 
-    private boolean validate(int[] nums, int maxOperations, int mid) {
-        for (int i = 0; i < nums.length; i++) {
-            maxOperations-=nums[i]/mid;
-            if(nums[i]%mid==0) maxOperations++;
         }
-        return maxOperations>=0;
-    }
-
+        return sb.toString();
+        }
 }
