@@ -49,16 +49,14 @@ public class Solution {
         int n=nums.length;
         int m=multipliers.length;
         int dp[]=new int[m];
-        Arrays.fill(dp, Integer.MIN_VALUE);
-        max=calculateMax(nums, multipliers,dp,0,m-1,0);
-        for (int i = 0; i < dp.length; i++) {
-            System.out.print(dp[i]+" ");
-        }
+
         return max;
 
     }
-    int calculateMax(int []nums, int multipliers[],int dp[], int start, int end ,int current){
-
+    int calculateMax(int []nums, int multipliers[],int i, int start, int end ){
+        int left=nums[i]*multipliers[start]+calculateMax(nums,multipliers,i+1,start+1,end);
+        int right=nums[i]*multipliers[end]+calculateMax(nums,multipliers,i+1,start,end-1);
+        return Integer.max(left,right);
     }
     public String mergeAlternately(String word1, String word2) {
         int len =Integer.max(word1.length() , word2.length());
