@@ -10,19 +10,26 @@ public class MatrixDiagonalSum {
     }
 
     public int diagonalSum(int[][] mat) {
-        int k = mat.length;
-        int sum = 0;
-        for (int i = 0; i < k; i++) {
-            sum += mat[i][i];
-            sum += mat[k - 1 - i][i];
+        int sum=0;
+        int c=0;
+        int row=0;
+        while(row<mat.length){
+            System.out.println(row+" "+c);
+            sum+=mat[row++][c++];
         }
-
-        if (k % 2 == 1) {
-            sum -= mat[k / 2][k / 2];
+        row=0;
+        c--;
+        while(row<mat.length){
+            sum+=mat[row++][c--];
         }
+        if(mat.length%2!=0){
 
+            int rm=mat.length/2;
+            int cm=mat[0].length/2;
+            // System.out.println(rm+" "+cm);
+            sum-=mat[rm][cm];
+        }
         return sum;
     }
-
 
 }
