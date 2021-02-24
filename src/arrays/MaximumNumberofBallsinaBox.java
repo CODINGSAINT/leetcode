@@ -1,6 +1,5 @@
 package arrays;
 import java.util.*;
-
 public class MaximumNumberofBallsinaBox {
     public int countBalls(int lowLimit, int highLimit) {
 
