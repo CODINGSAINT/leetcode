@@ -1,78 +1,45 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.*;
-import java.util.Set;
+import java.util.Collections;
+import java.util.PriorityQueue;
 
-public class Solution {
-    public static void main(String[] args) {
-        Solution s = new Solution();
-     /*   System.out.println(s.mergeAlternately("abcd","pq"));
-        System.out.println(s.mergeAlternately("ab","pqrs"));
-        System.out.println(s.mergeAlternately("abc","pqr"));
-*/
-        System.out.println(s.minOperations("001011"));
-     //System.out.println(s.maximumScore(new int[]{-5,-3,-3,-2,7,1} , new int[]{-10,-5,3,4,6}));
-     // System.out.println(s.maximumScore(new int[]{-5,-3} , new int[]{-10}));
-
-
-
-    }
-
-    public int[] minOperations(String b) {
-        char boxes[]=b.toCharArray();
-        int n=boxes.length;
-        int forward[]= new int[n];
-        int backward[]=new int[n];
-        int count[]= new int[n];
-        //Let us calculate forward
-        int currentSteps=0;
-         currentSteps=boxes[0]=='0'?0:1;
-        for (int i = 1; i < n; i++) {
-            forward[i]=forward[i-1]+currentSteps;
-            currentSteps+=boxes[i]-'0';
+class Solution {
+    public int minAbsoluteSumDiff(int[] nums1, int[] nums2) {
+        int MOD = 1000000007;
+        int sum = 0;
+        //Keep the PriorityQueue  to know the highest difference at peek and 
+        // maxIndex which tells the index of the max abs difference element
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        int maxIndex = 0;
+        for (int i = 0; i < nums1.length; i++) {
+            int diff = Math.abs(nums1[i] - nums2[i]);
+            if (pq.isEmpty() == false && diff > pq.peek())
+                maxIndex = i;
+            pq.add(diff);
+            sum = (sum + diff) % MOD;
         }
-        currentSteps=boxes[n-1]=='0'?0:1;
-        for (int i = n-2; i >=0; i--) {
-            backward[i]=backward[i+1]+currentSteps;
-            currentSteps+=boxes[i]-'0';
-        }
-        for (int i = 0; i < n; i++) {
-            count[i]=forward[i]+backward[i];
-        }
+        if (sum == 0) return 0;
+        // the max difference should be reduced to get the result minimum absolute difference,
+        // i.e. the index which provided the max difference needs to be replaced
+        // such that it gives minimum possible value
+        int currD = 0;
+        // find the differences of all of the elements with the element at maxIndex and keep in another PriorityQueue 
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>();
 
-        return count;
-    }
-
-
-    public int maximumScore(int[] nums, int[] multipliers) {
-        int max=0;
-        int n=nums.length;
-        int m=multipliers.length;
-        int dp[]=new int[m];
-
-        return max;
-
-    }
-    int calculateMax(int []nums, int multipliers[],int i, int start, int end ){
-        int left=nums[i]*multipliers[start]+calculateMax(nums,multipliers,i+1,start+1,end);
-        int right=nums[i]*multipliers[end]+calculateMax(nums,multipliers,i+1,start,end-1);
-        return Integer.max(left,right);
-    }
-    public String mergeAlternately(String word1, String word2) {
-        int len =Integer.max(word1.length() , word2.length());
-        StringBuffer sb= new StringBuffer();
-        for (int i = 0; i < len; i++) {
-            if(i>word1.length()-1){
-                sb.append(word2.substring(i));
-                break;
-            }if(i>word2.length()-1){
-                sb.append(word1.substring(i));
-                break;
+        for (int i = 0; i < nums2.length; i++) {
+            if (i != maxIndex) {
+                currD = Math.abs(nums1[i] - nums2[maxIndex]);
+                pq2.add(currD);
             }
-            sb.append(word1.charAt(i));
-            sb.append(word2.charAt(i));
+        }
+        //Now All we need to do is remove the max from pq1 and add the min of pq2 to sum,
+        // both of which are at top of their respective q
+        if (!pq2.isEmpty()) {
+            if (!pq.isEmpty()) {
 
+                sum -= pq.poll();
+                sum = (sum + pq2.poll()) % MOD;
+            }
         }
-        return sb.toString();
-        }
+
+        return sum;
+    }
 }
